@@ -51,6 +51,23 @@
         "Type": "TaxonomyFieldType"
     },
 
+    
+
+    {
+        "Choices": [
+            "Draupner", "Grane", "GFA", "GFB", "GFC", "Kvitebjørn", "SFA", "SFB", "SFC", "Valemon", "Visund", "N/A"
+
+        ],
+        "Default": "N/A",
+        "Description": "",
+        "DisplayName": "Installasjon",
+        "Format": "Dropdown",
+        "Group": "BBC Glittertind Områdekolonner",
+        "ID": "6f6fdab0-4ae8-4d22-9457-44db080396e8",
+        "InternalName": "BBInstallation",
+        "Type": "Choice"
+    },
+
     {
         "CalculatedProps": {
             "FieldRefs": [{

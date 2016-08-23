@@ -11,9 +11,9 @@
         "GtProjectPhase",
         "BBProjectActivity",
         "BBDiscipline",
-        "BBYear",
-        "BBMonth",
-        "BBWeek",
+        "BBYearCreated",
+        "BBMonthCreated",
+        "BBWeekCreated",
         "BBInstallation",
         "BBClassification"
 
