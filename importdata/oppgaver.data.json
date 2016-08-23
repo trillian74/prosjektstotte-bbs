@@ -1,0 +1,40 @@
+{
+    "Name": "Standardoppgaver",
+    "Type": "TaskList",
+    "Data": {
+        "Rows": [{
+            "Fields": [{
+                "Name": "Title",
+                "Value": "TEST Støtte oppdragsgiver (KTA ) i å definere krav og rammer etter behov"
+            }, {
+                "Name": "GtProjectPhase",
+                "Value": "Konsept|dca0a226-0907-4c54-8624-6b51fcac7a92"
+            }],
+            "Rows": [{
+                "Fields": [{
+                    "Name": "Title",
+                    "Value": "TEST  for signert oppdragsbestilling"
+                }, {
+                    "Name": "GtProjectPhase",
+                    "Value": "Konsept|dca0a226-0907-4c54-8624-6b51fcac7a92"
+                }]
+            }, {
+                "Fields": [{
+                    "Name": "Title",
+                    "Value": "TEST Avklare økonomiske rammer/erfaringstall"
+                }, {
+                    "Name": "GtProjectPhase",
+                    "Value": "Konsept|dca0a226-0907-4c54-8624-6b51fcac7a92"
+                }]
+            }, {
+                "Fields": [{
+                    "Name": "Title",
+                    "Value": " TEST Fylle ut sjekkliste for oppdragsavtale"
+                }, {
+                    "Name": "GtProjectPhase",
+                    "Value": "Konsept|dca0a226-0907-4c54-8624-6b51fcac7a92"
+                }]
+            }]
+        }]
+    }
+}
