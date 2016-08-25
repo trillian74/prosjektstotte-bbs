@@ -8,15 +8,15 @@
     "Description": "",
     "DisplayName": "Prosjektdokument",
     "Fields": [
+        "GtProjectNumber",
         "GtProjectPhase",
-        "BBProjectActivity",
-        "BBDiscipline",
-        "BBYearCreated",
-        "BBMonthCreated",
-        "BBWeekCreated",
         "BBInstallation",
+        "BBDiscipline",
+        "BBProjectActivity",
+        "BBRegardingYear",
+        "BBRegardingMonth",
+        "BBRegardingWeek",
         "BBClassification"
-
     ],
     "Group": "Glittertind Innholdstyper",
     "ID": "0x010100293fde3fcada480b9a77bbdad7dfa28c01",
@@ -24,6 +24,23 @@
     "RequiredFields": [
         "GtProjectPhase"
     ]
+}, {
+    "Description": "Innholdstype for MoM med mal",
+    "DisplayName": "Prosjektmøte (MoM)",
+    "Fields": [
+
+    ],
+    "Group": "BBC Glittertind Innholdstyper",
+    //ment å arve fra prosjektdokument
+    "ID": "0x010100293fde3fcada480b9a77bbdad7dfa28c0105",
+    "Inherits": "TRUE",
+    "InternalName": "GtProjectMeeting",
+    "RequiredFields": [
+        "GtProjectPhase"
+    ],
+    "DocumentTemplate": {
+        "TargetName": "Forms/MoM.dotx"
+    }
 }, {
     "Description": "",
     "DisplayName": "Glittertind nettdelside",
