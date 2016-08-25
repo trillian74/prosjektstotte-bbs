@@ -34,7 +34,7 @@
     //ment å arve fra prosjektdokument
     "ID": "0x010100293fde3fcada480b9a77bbdad7dfa28c0105",
     "Inherits": "TRUE",
-    "InternalName": "GtProjectMeeting",
+    "InternalName": "BBProjectMeeting",
     "RequiredFields": [
         "GtProjectPhase"
     ],
