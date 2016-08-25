@@ -1,0 +1,206 @@
+{
+    "TermSets": [{
+
+        "Terms": [{
+            "Title": "Januar",
+            "Id": "fd1c160a-aa65-4206-8552-0a49d72613cc"
+        }, {
+            "Title": "Februar",
+            "Id": "05784bd9-eac3-4b27-afdf-8a9db2cc3498"
+        }, {
+            "Title": "Mars",
+            "Id": "686441d9-a430-47be-8677-8b0b9dbe947e"
+        }, {
+            "Title": "April",
+            "Id": "cc4904c5-7f42-4987-8773-b0b96ff4bb78"
+        }, {
+            "Title": "Mai",
+            "Id": "9e542dfd-fbcf-4cbd-81d9-292ae7b749a2"
+        }, {
+            "Title": "Juni",
+            "Id": "30ca3dd6-b2e2-4936-825f-d1801ddbea0e"
+        }, {
+            "Title": "Juli",
+            "Id": "4ba6dde0-ae69-4766-afed-5b7314b60923"
+        }, {
+            "Title": "August",
+            "Id": "35e27c3b-c8c2-4446-8332-118799adad61"
+        }, {
+            "Title": "September",
+            "Id": "10fabc9e-e04d-4520-a20d-ecde6eedc60e"
+        }, {
+            "Title": "Oktober",
+            "Id": "c0515dc6-2411-4836-a3ad-1b6d4d47056a"
+        }, {
+            "Title": "November",
+            "Id": "c2a04854-ba84-4f81-9c6a-a352e5c54a84"
+        }, {
+            "Title": "Desember",
+            "Id": "5e34210d-aac8-4bd6-bb49-a980fa253872"
+        }],
+        "Title": "Måned",
+        "Id": "372aacac-3f8b-45a6-8ed5-b4c2d5c66d90"
+    }, {
+
+        "Terms": [{
+            "Title": "Åpen",
+            "Id": "d1c98683-a126-4486-b3f8-c3bf87a030f0"
+        }, {
+            "Title": "Intern",
+            "Id": "ca8075db-4b8c-4625-ac98-b52ee28227af"
+        }, {
+            "Title": "Konfidensiell Intern",
+            "Id": "e1f3fa60-2355-4b53-bf0e-17d6efd8355c"
+        }, {
+            "Title": "Sensitiv",
+            "Id": "d318a03f-e64d-4652-aeca-c9b79a666389"
+        }],
+        "Title": "Klassifisering",
+        "Id": "4bce7211-5619-4479-8619-8d563cb5beb7"
+    }, {
+        "Terms": [{
+            "Title": "Arkitekt",
+            "Id": "3b782525-f95e-41b0-80b9-eaf141485df2"
+        }, {
+            "Title": "Engineering",
+            "Id": "c55f0fda-27fd-45a8-b832-9422653480d0"
+        }, {
+            "Title": "Habitat",
+            "Id": "5770e94f-8234-4d58-a561-16c37e554361"
+        }, {
+            "Title": "HMS",
+            "Id": "bc3de5ea-416b-48d0-90c7-ca7449a92e34"
+        }, {
+            "Title": "Isolasjon",
+            "Id": "451d4ad6-527c-4266-9472-ad1e805459b7"
+        }, {
+            "Title": "Kaldkutting",
+            "Id": "2efc7c03-7c37-4344-aa07-43ba13015a1f"
+        }, {
+            "Title": "Overflate",
+            "Id": "666e4437-9aea-46d8-8650-5877ec090bce"
+        }, {
+            "Title": "PBB",
+            "Id": "a6e2af5d-254a-42e8-aa92-d5b54e7a18a6"
+        }, {
+            "Title": "Plan",
+            "Id": "44ce6124-a24c-4c7f-b990-29faa35d19f0"
+        }, {
+            "Title": "Produksjonsledelse",
+            "Id": "f4e91467-582c-4f3b-a129-67a6dc3e2c5d"
+        }, {
+            "Title": "Prosjektledelse",
+            "Id": "7a9ebbd2-86c7-48a2-b790-a6ad37c23c7e"
+        }, {
+            "Title": "Stillas",
+            "Id": "932c303d-72be-4199-87aa-9666d3e75897"
+        }, {
+            "Title": "TT",
+            "Id": "dbab2b62-6dd7-4958-850b-41a2fe80e410"
+        }],
+        "Title": "Disiplin",
+        "Id": "b6abbc08-7871-4c5b-8c2f-4a3fbdeae06c"
+    }, {
+        "Terms": [{
+            "Title": "Skole og oppvekst",
+            "Id": "46475d37-c854-439e-b04b-2433f2dc2566"
+        }, {
+            "Title": "Helse og velferd",
+            "Id": "88058353-ac05-4652-a4fc-690b649ab03a"
+        }, {
+            "Title": "Plan, bygg og geodata",
+            "Id": "ab3dd407-a44b-4783-aa45-481fb9f564ba"
+        }, {
+            "Title": "Trafikk og samferdsel",
+            "Id": "6479faf1-3141-46ef-94d6-fc65e8f51448"
+        }, {
+            "Title": "Kultur, idrett og fritid",
+            "Id": "8b3870f8-59a2-4cef-a281-19228b286bbf"
+        }, {
+            "Title": "Natur og milj\u00f8",
+            "Id": "e302dff1-4fb3-4d86-894a-f3bd769f4764"
+        }, {
+            "Title": "Vann og avl\u00f8p",
+            "Id": "8d1082d0-a44d-452d-baef-212b938c5102"
+        }, {
+            "Title": "Arbeid og n\u00e6ringsliv",
+            "Id": "27805ae3-5749-44d9-94a7-146eedb06cfb"
+        }, {
+            "Title": "Skatt og avgift",
+            "Id": "40191080-4a2a-4b8f-9c76-c31be95ae5d4"
+        }, {
+            "Title": "Administrasjon og IKT",
+            "Id": "b81d2835-beae-41ae-a810-89cf1bea480f"
+        }],
+        "Title": "Tjenesteomr\u00e5de",
+        "Id": "99af1a25-88c1-4781-a05c-8446928d3fdd"
+    }, {
+        "Terms": [{
+            "Title": "Konsept",
+            "Id": "99e85650-33de-4af4-b8db-edffbc8a310b",
+            "LocalCustomProperties": {
+                "ShowOnFrontpage": "true"
+            }
+        }, {
+            "Title": "Planlegge",
+            "Id": "cda4f1e1-3488-4e57-8a04-6973df239689",
+            "LocalCustomProperties": {
+                "ShowOnFrontpage": "true"
+            }
+        }, {
+            "Title": "Gjennomf\u00f8re",
+            "Id": "99d7765a-c786-4792-a1a1-866ef0f982b9",
+            "LocalCustomProperties": {
+                "ShowOnFrontpage": "true"
+            }
+        }, {
+            "Title": "Avslutte",
+            "Id": "30e03c52-8c3e-4cfe-9b18-ca71593ce130",
+            "LocalCustomProperties": {
+                "ShowOnFrontpage": "true"
+            }
+        }, {
+            "Title": "Realisere",
+            "Id": "b7ba84f0-70b9-45c4-8c50-8f73bf15bbec",
+            "LocalCustomProperties": {
+                "ShowOnFrontpage": "true"
+            }
+        }, {
+            "Title": "Flere faser",
+            "Id": "777cc6ac-4639-4633-85b9-f1ef61197c4d",
+            "LocalCustomProperties": {
+                "ShowOnFrontpage": "false"
+            }
+        }, {
+            "Title": "Ingen fase",
+            "Id": "6edb42ac-9aaf-4f07-9cf5-5dfdf9ab0c32",
+            "LocalCustomProperties": {
+                "ShowOnFrontpage": "false"
+            }
+        }],
+        "Title": "Fase",
+        "Id": "abcfc9d9-a263-4abb-8234-be973c46258a",
+        "CustomSortOrder": "6edb42ac-9aaf-4f07-9cf5-5dfdf9ab0c32:777cc6ac-4639-4633-85b9-f1ef61197c4d:99e85650-33de-4af4-b8db-edffbc8a310b:cda4f1e1-3488-4e57-8a04-6973df239689:99d7765a-c786-4792-a1a1-866ef0f982b9:30e03c52-8c3e-4cfe-9b18-ca71593ce130:b7ba84f0-70b9-45c4-8c50-8f73bf15bbec"
+    }, {
+        "Terms": [{
+            "Title": "Anlegg",
+            "Id": "26a1b6a7-9a4b-4a26-be46-7f6bb0e07475"
+        }, {
+            "Title": "Bygg",
+            "Id": "81d51eff-4dd8-4d9f-8373-327ce4cfebb9"
+        }, {
+            "Title": "IKT",
+            "Id": "f43d2dcf-27c8-432d-8b9b-dae09d9b0d7a"
+        }, {
+            "Title": "Annet",
+            "Id": "088eeab9-8ebd-4a53-976c-e7b9a5e7eed9"
+        }, {
+            "Title": "Organisasjonsutvikling",
+            "Id": "682706ae-a2d7-47ed-81d7-f8b6f30e0340"
+        }],
+        "Title": "Prosjekttype",
+        "Id": "3930cddb-fa4d-496f-b314-03ecabb91de1"
+    }],
+    "Title": "Prosjektportalen",
+    "Id": "c56bb677-f782-4cf6-a6d6-17685ee9f19d"
+}
