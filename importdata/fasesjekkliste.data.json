@@ -3,16 +3,16 @@
     "Type": "GenericList",
     "Data": {
         "Rows": [{
-                "Fields": [{
-                    "Name": "Title",
-                    "Value": "Har det vært endringer i oppdragsbestillingen?"
-                }, {
-                    "Name": "GtProjectPhase",
-                    "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                }, {
-                    "Name": "ContentTypeId",
-                    "Value": "0x010088578E7470CC4AA68D5663464831070204"
-                }]
+            "Fields": [{
+                "Name": "Title",
+                "Value": "Har det vært endringer i oppdragsbestillingen?"
+            }, {
+                "Name": "GtProjectPhase",
+                "Value": "Konsept|dca0a226-0907-4c54-8624-6b51fcac7a92"
+            }, {
+                "Name": "ContentTypeId",
+                "Value": "0x010088578E7470CC4AA68D5663464831070204"
+            }]
         }]
-        }
     }
+}

@@ -1,0 +1,14 @@
+﻿{
+    "Name": "Møtekalender",
+    "OnQuickLaunch": false,
+    "VersioningEnabled":  true,
+    "Description": "",
+    "Views": [
+	    {
+	        "Name": "Kalender",
+	        "ViewFields": [],
+	        "RowLimit": 0,
+	        "Query": ""
+	    }
+    ]
+}
