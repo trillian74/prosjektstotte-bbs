@@ -112,7 +112,7 @@
         //     "ResultType": "Number"
         // },
         "Description": "Beskriver hvilken uke denne filen gjelder",
-        "DisplayName": "Gjeldende for uker",
+        "DisplayName": "Gjeldende for uke",
         "Group": "BBC Glittertind Områdekolonner",
         "ID": "06497e9a-4fc3-4f02-858c-b5ee107e71de",
         "InternalName": "BBRegardingWeek",
@@ -147,7 +147,7 @@
         //         "ResultType": "Number"
         //     },
         "Description": "Beskriver hvilken uke denne filen gjelder for",
-        "DisplayName": "Gjeldende for uke",
+        "DisplayName": "Gjeldende for uke (deprecated)",
         "Group": "BBC Glittertind Områdekolonner",
         "ID": "32220197-f358-4531-a617-9ec41f86c660",
         "InternalName": "BBWeekCreated",

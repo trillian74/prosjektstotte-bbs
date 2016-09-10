@@ -39,10 +39,10 @@
         "InternalName": "BBProjectMeeting",
         "RequiredFields": [
             "GtProjectPhase"
-        ]/*,
-        "DocumentTemplate": {
-            "TargetName": "Forms/MoM.dotx"
-        }*/
+        ],
+        "Template": {
+            "FileName": "Minutes of meeting.dotx"
+        }
     },
     {
         "Description": "",

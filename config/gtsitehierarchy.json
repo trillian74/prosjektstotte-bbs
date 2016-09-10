@@ -2,6 +2,9 @@
     "FieldConfigurations": [
         "gtfields.json"
     ],
+    "AddTemplatesToCts":[
+        "bbtemplates.json"
+    ],
     "ContentTypeConfigurations": [
         "gtcontenttypes.json"
     ],
@@ -9,7 +12,7 @@
         "gttaxonomy.json"
     ],
     "SandboxedSolutions": [
-        "Glittertind.SharePoint.Project.wsp"
+        "Glittertind.SharePoint.wsp"
     ],
     "SearchConfigurations": [
         "Prosjektportalen-konfigurasjon.xml"
