@@ -1121,7 +1121,7 @@
                                                     "Id": "35cca28d-488a-4ad4-b544-9277b8e84ec6"
                                                 },
                                                 {
-                                                    "Title": "Timely removal of roles and access when an employee or external person leaves Beerenberg Employment",
+                                                    "Title": "Timely removal of roles and access when an employee or external person leaves BBC Employment",
                                                     "Id": "e614ce91-0478-4e6c-8f51-979e7f5ec273"
                                                 }
                                             ],
@@ -1143,29 +1143,31 @@
                     ],
                     "Title": "Support Processes",
                     "Id": "cc9fdd52-bf4d-4588-ac2b-2e97cc6ee04a"
-                },
-                {
-                    "Terms": [
-                        {
-                            "Title": "Strategic phase",
-                            "Id": "4c041654-5882-48c6-bb65-6447b0507a65"
-                        },
-                        {
-                            "Title": "Planning phase",
-                            "Id": "f000f49f-561f-4288-8b6c-ae636c1c8812"
-                        },
-                        {
-                            "Title": "Perform phase",
-                            "Id": "dd1702e4-8646-44c0-8e71-57070855038b"
-                        },
-                        {
-                            "Title": "Control and evaluate phase",
-                            "Id": "21ec8698-f63e-4574-a73c-38c45d114cb8"
-                        }
-                    ],
-                    "Title": "Added Services - project processes",
-                    "Id": "97e3b114-a560-4c9b-b2a5-7d747824520c"
                 }
+                // ,
+                //Fjernes etter enighet i møte
+                // {
+                //     "Terms": [
+                //         {
+                //             "Title": "Strategic phase",
+                //             "Id": "4c041654-5882-48c6-bb65-6447b0507a65"
+                //         },
+                //         {
+                //             "Title": "Planning phase",
+                //             "Id": "f000f49f-561f-4288-8b6c-ae636c1c8812"
+                //         },
+                //         {
+                //             "Title": "Perform phase",
+                //             "Id": "dd1702e4-8646-44c0-8e71-57070855038b"
+                //         },
+                //         {
+                //             "Title": "Control and evaluate phase",
+                //             "Id": "21ec8698-f63e-4574-a73c-38c45d114cb8"
+                //         }
+                //     ],
+                //     "Title": "Added Services - project processes",
+                //     "Id": "97e3b114-a560-4c9b-b2a5-7d747824520c"
+                // }
             ],
             "Title": "BMS",
             "Id": "0160c314-ef4b-459f-8735-cf1d25998b24"

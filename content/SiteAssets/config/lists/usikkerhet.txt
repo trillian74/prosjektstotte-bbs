@@ -6,16 +6,22 @@
     "Views": [
 	    {
 	    	"Name": "Alle elementer",
-            "ViewFields": ["LinkTitle", "GtRiskProbability", "GtRiskConsequence", "GtRiskProximity", "GtRiskFactor"],
+            "ViewFields": ["LinkTitle", "GtRiskProbability", "GtRiskConsequence", "GtRiskProximity", "GtRiskFactor","GtActionResponsible"],
 	        "RowLimit": 0,
 	        "Query": ""
 	    },	    
         {
 	    	"Name": "",
 	    	"Url": "SitePages/Forside.aspx",
-            "ViewFields": ["LinkTitle", "GtRiskProbability", "GtRiskConsequence", "GtRiskProximity", "GtRiskFactor"],
+            "ViewFields": ["LinkTitle", "GtRiskProbability", "GtRiskConsequence", "GtRiskProximity", "GtRiskFactor","GtActionResponsible"],
 	        "RowLimit": 10,
 	        "Query": "<OrderBy><FieldRef Name='Created' Ascending='FALSE' /></OrderBy>"
+	    },{
+	        "Name": "",
+            "Url": "SitePages/Tilordnet.aspx",
+	       "ViewFields": ["LinkTitle", "GtRiskProbability", "GtRiskConsequence", "GtRiskProximity", "GtRiskFactor","GtActionResponsible"],
+	        "RowLimit": 30,
+	        "Query": "<Where><Eq><FieldRef Name='GtActionResponsible' /><Value Type='Integer'><UserID Type='Integer' /></Value></Eq></Where>"
 	    }
     ]
 }

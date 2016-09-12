@@ -83,6 +83,33 @@
         "ID": "6f6fdab0-4ae8-4d22-9457-44db080396e8",
         "InternalName": "BBInstallation",
         "Type": "Choice"
+    },{
+        "Description": "",
+        "DisplayName": "Tiltaksfrist",
+        "Format": "DateOnly",
+        "Group": "BBC Glittertind Områdekolonner",
+        "ID": "9a1af0cc-635d-4fff-bad5-6389466f56e6",
+        "InternalName": "GtActionDueDate",
+        "Type": "DateTime"
+    },
+    {
+        "Choices": [
+            "HMS",
+            "Kvalitet",
+            "Omdømme",
+            "Plan",
+            "Økonomi",
+            "Annet",
+            "N/A"
+        ],
+        "Default": "N/A",
+        "Description": "En risiko kan deles inn i kategorier som: HMS, Kvalitet, Økonomi, Plan, Omdømme, Annet",
+        "DisplayName": "Riskkategori",
+        "Format": "Dropdown",
+        "Group": "BBC Glittertind Områdekolonner",
+        "ID": "5a736fcf-42f0-4c70-8423-f407adf78413",
+        "InternalName": "BBRiskCategory",
+        "Type": "Choice"
     },
     {
         // "CalculatedProps": {
@@ -223,6 +250,21 @@
         "Type": "Choice"
     },
     {
+        "Choices": [
+            "N/A",
+            "ÅPEN",
+            "LUKKET"
+        ],
+        "Default": "ÅPEN",
+        "Description": "",
+        "DisplayName": "Avsluttet?",
+        "Format": "RadioButtons",
+        "Group": "BBC Glittertind Områdekolonner",
+        "ID": "fc6809a5-3cc7-4a48-8f03-29f5ba9e0936",
+        "InternalName": "GtIsRiskOpen",
+        "Type": "Choice"
+    },
+    {
         "Description": "Kommentar til status risiko angitt over",
         "DisplayName": "Kommentar, risiko",
         "Group": "Glittertind Områdekolonner",
@@ -297,7 +339,7 @@
         "Type": "Note"
     },
     {
-        "Description": "Tall 0 til 5",
+        "Description": "Tall 0 til 5 hvor 0 er usannsynlig, 1 er 0.1% til 5% sannsynlighet, 2 er 5% til 25% etc.",
         "DisplayName": "Sannsynlighet (S)",
         "Group": "Glittertind Områdekolonner",
         "ID": "0e1b295d-2bfb-4ef6-ae92-e72068e56111",
@@ -307,7 +349,7 @@
         "Type": "Number"
     },
     {
-        "Description": "Tall 0 til 5",
+        "Description": "Tall 0 til 5 hvor 0 er ingen konsekvens, 1 er 0.1% til 5% påvirkning, 2 er 5% til 25% etc.",
         "DisplayName": "Konsekvens (K)",
         "Group": "Glittertind Områdekolonner",
         "ID": "554d32a0-0148-4b3c-bfc4-f101232ee501",
@@ -361,7 +403,7 @@
         "Type": "Note"
     },
     {
-        "Description": "Tall 0 til 5",
+        "Description": "Tall 0 til 5 hvor 0 er usannsynlig, 1 er 0.1% til 5% sannsynlighet, 2 er 5% til 25% etc.",
         "DisplayName": "S etter tiltak",
         "Group": "Glittertind Områdekolonner",
         "ID": "f81ebcb7-8791-44b0-9919-08ed5524b11d",
@@ -371,7 +413,7 @@
         "Type": "Number"
     },
     {
-        "Description": "Tall 0 til 5",
+        "Description": "Tall 0 til 5 hvor 0 er ingen konsekvens, 1 er 0.1% til 5% påvirkning, 2 er 5% til 25% etc.",
         "DisplayName": "K etter tiltak",
         "Group": "Glittertind Områdekolonner",
         "ID": "00f17233-d4c0-49d0-aebd-5004552abb17",

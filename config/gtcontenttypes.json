@@ -107,6 +107,11 @@
         "DisplayName": "Usikkerhet",
         "Fields": [
             "GtProjectPhase",
+            "GtIsRiskOpen",
+            "BBCustomer",
+            "BBRiskCategory",
+            "GtActionResponsible",
+            "GtActionDueDate",
             "GtRiskProbability",
             "GtRiskConsequence",
             "GtRiskProximity",
