@@ -29,6 +29,113 @@
         ]
     },
     {
+        "Description": "Innholdstype for TI med mal",
+        "DisplayName": "TI MAIL",
+        "Fields": [],
+        "Group": "BBC Glittertind Innholdstyper",
+        //ment å arve fra prosjektdokument
+        "ID": "0x010100293fde3fcada480b9a77bbdad7dfa28c0106",
+        "Inherits": "TRUE",
+        "InternalName": "BBTIMAL",
+        "RequiredFields": [
+            "GtProjectPhase"
+        ],
+        "Template": {
+            "FileName": "TIMAL.dotx"
+        }
+    },{
+        "Description": "Innholdstype for Problemløsning A3 MAL",
+        "DisplayName": "Problemløsning A3",
+        "Fields": [],
+        "Group": "BBC Glittertind Innholdstyper",
+        //ment å arve fra prosjektdokument
+        "ID": "0x010100293fde3fcada480b9a77bbdad7dfa28c0107",
+        "Inherits": "TRUE",
+        "InternalName": "BBA3",
+        "RequiredFields": [
+            "GtProjectPhase"
+        ],
+        "Template": {
+            "FileName": "ProblemlosningsA3MALClean.dotx"
+        }
+    },
+{
+        "Description": "Innholdstype for Problemløsning A3 MAL med stikkord",
+        "DisplayName": "Problemløsning A3 med stikkord",
+        "Fields": [],
+        "Group": "BBC Glittertind Innholdstyper",
+        //ment å arve fra prosjektdokument
+        "ID": "0x010100293fde3fcada480b9a77bbdad7dfa28c0108",
+        "Inherits": "TRUE",
+        "InternalName": "BBA3Keywords",
+        "RequiredFields": [
+            "GtProjectPhase"
+        ],
+        "Template": {
+            "FileName": "ProblemlosningsA3MAL.dotx"
+        }
+    },{
+        "Description": "Innholdstype for Bemanningsrapport",
+        "DisplayName": "Bemanningsrapport",
+        "Fields": [],
+        "Group": "BBC Glittertind Innholdstyper",
+        //ment å arve fra prosjektdokument
+        "ID": "0x010100293fde3fcada480b9a77bbdad7dfa28c0109",
+        "Inherits": "TRUE",
+        "InternalName": "BBBemanning",
+        "RequiredFields": [
+            "GtProjectPhase"
+        ],
+        "Template": {
+            "FileName": "BemanningsrapportMal.xltx"
+        }
+    },{
+        "Description": "Innholdstype for AOF Endring",
+        "DisplayName": "AOF",
+        "Fields": [],
+        "Group": "BBC Glittertind Innholdstyper",
+        //ment å arve fra prosjektdokument
+        "ID": "0x010100293fde3fcada480b9a77bbdad7dfa28c0110",
+        "Inherits": "TRUE",
+        "InternalName": "BBAOF",
+        "RequiredFields": [
+            "GtProjectPhase"
+        ],
+        "Template": {
+            "FileName": "AOF Endring.xltx"
+        }
+    },{
+        "Description": "Innholdstype for Leieliste",
+        "DisplayName": "Leieliste",
+        "Fields": [],
+        "Group": "BBC Glittertind Innholdstyper",
+        //ment å arve fra prosjektdokument
+        "ID": "0x010100293fde3fcada480b9a77bbdad7dfa28c0111",
+        "Inherits": "TRUE",
+        "InternalName": "BBLeieliste",
+        "RequiredFields": [
+            "GtProjectPhase"
+        ],
+        "Template": {
+            "FileName": "LeielisteMal.xltx"
+        }
+    },{
+        "Description": "Innholdstype for Oppstartsmøte",
+        "DisplayName": "Oppstartsmøte",
+        "Fields": [],
+        "Group": "BBC Glittertind Innholdstyper",
+        //ment å arve fra prosjektdokument
+        "ID": "0x010100293fde3fcada480b9a77bbdad7dfa28c0112",
+        "Inherits": "TRUE",
+        "InternalName": "BBOppstartMeet",
+        "RequiredFields": [
+            "GtProjectPhase"
+        ],
+        "Template": {
+            "FileName": "OppstartMeet.xltx"
+        }
+    },
+{
         "Description": "Innholdstype for MoM med mal",
         "DisplayName": "Prosjektmøte (MoM)",
         "Fields": [],
@@ -41,9 +148,13 @@
             "GtProjectPhase"
         ],
         "Template": {
-            "FileName": "Minutes of meeting.dotx"
+            "FileName": "HMS mom.dotx"
         }
     },
+
+
+
+
     {
         "Description": "",
         "DisplayName": "Glittertind nettdelside",

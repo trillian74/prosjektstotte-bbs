@@ -56,6 +56,7 @@
             myItem.pavirkerProdukt = $getItemValue(ctx, "PavirkerProdukt");
             myItem.tilProsjektStyre = $getItemValue(ctx, "TilProsjektStyre");
             myItem.lastModified = $getItemValue(ctx, "LastModifiedTime");
+            myItem.lastModifiedBy = $getItemValue(ctx, "LastModifiedBy");
             myItem.parentWebUrl = $getItemValue(ctx, "SPWebUrl");
     
             var trClass = 'erfaring';
@@ -102,6 +103,12 @@ _#-->
             </td>
             <td>
                 _#= myItem.aktorer =#_
+            </td>
+               <td>
+                _#= myItem.lastModified =#_
+            </td>
+               <td>
+                _#= myItem.lastModifiedBy =#_
             </td>
         </tr>
     </div> 

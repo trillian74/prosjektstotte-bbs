@@ -360,10 +360,8 @@
     },
     {
         "Choices": [
-            "Umiddelbart",
-            "I denne fasen",
-            "Innenfor prosjektet",
-            "Utenfor prosjektet"
+            "Intern",
+            "Ekstern"
         ],
         "Description": "",
         "DisplayName": "Nærhet",

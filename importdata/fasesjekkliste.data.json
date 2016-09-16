@@ -1,0 +1,457 @@
+{
+    "Name": "Fasesjekkliste",
+    "Type": "GenericList",
+    "Data": {
+        "Rows": [
+           
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er prosjektorganisasjon etablert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er nøkkelressurser allokert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er organisasjonskart på plass?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er rollebeskrivelser utarbeidet?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er prosjekts mål og kritiske suksefaktorer definert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er alle prosjektets interessenter definert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er kommunikasjonsplan etablert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er enrdringshåndtering definert med kunde?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er det utarbeidet en helhetlig og konsistent plan som bryter prosjektet ned i håndterbare faser? (milepælsplan)"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er liste over relevante krav og standarder oppdatert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er alle relevante styrende dokumenter knyttet til?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er prosjekthierarki etablert i AX?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er WebTiv satt opp for prosjektet, evt. er det tilvirket en plan for å sette opp WebTiv?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er det PO\\kostnadbærer etablert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er timebærer i iCore på plass?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er nettverk i Safran etablert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er tilganger til WebTiv, Safran, iCore, Synergi, Project Portalen opprettet?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er risikomatrisen etablert for prosjektet?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er CPS godkjent av kunde?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er IPS godkjent av kunde?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er kvalitetsmatrisen utarbeidet?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er gap identifisert i kvalitetsmatrisen lukket?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er HMS plan utarbeidet?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er Inspection and Test Plan (ITP) utarbeidet?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er det utarbeidet nødvendige strategier for gjennomføring (for eksempel bemaningsstrategi, kvalitetsstrategi og anskaffelsesstrategi)?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er alt nødvendig utstyr bestilt?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er all nødvendig bemanning bestilt?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er linjeorganisasjonen klar til å ta i bruk leveransene fra prosjektet og er nødvendig opplæring, brukerdokumentasjon, driftsrutiner osv utarbeidet og gjennomført?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            }
+        ]
+    }
+}

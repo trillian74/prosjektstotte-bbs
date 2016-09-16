@@ -41,6 +41,7 @@ if(myItem.aktorer !== undefined) {
 myItem.pavirkerProdukt = $getItemValue(ctx, "PavirkerProdukt");
 myItem.tilProsjektStyre = $getItemValue(ctx, "TilProsjektStyre");
 myItem.lastModified = $getItemValue(ctx, "LastModifiedTime");
+myItem.lastModifiedBy = $getItemValue(ctx, "LastModifiedBy");
 myItem.parentWebUrl = $getItemValue(ctx, "SPWebUrl");
 
 var trClass = 'erfaring';
@@ -88,6 +89,12 @@ ms_outHtml.push(''
 ,'			</td>'
 ,'			<td>'
 ,'				', myItem.aktorer ,''
+,'			</td>'
+,'			<td>'
+,'				', myItem.lastModified ,''
+,'			</td>'
+,'			<td>'
+,'				', myItem.lastModifiedBy ,''
 ,'			</td>'
 ,'		</tr>'
 ,'    '

@@ -918,7 +918,7 @@ GT.Project.Setup.UpdateListProperties = function (configData) {
 };
 GT.Project.Setup.UpdateListViews = function (data) {
     var deferred = GT.jQuery.Deferred();
-
+    console.log("Update views for " + data.Name);
     var listName = data.Name;
     var listViewsToConfigure = data.Views;
 
@@ -928,7 +928,9 @@ GT.Project.Setup.UpdateListViews = function (data) {
 
     clientContext.load(viewCollection);
     clientContext.executeQueryAsync(function () {
+        
         for (var i = 0; i < listViewsToConfigure.length; i++) {
+            console.log(listViewsToConfigure[i].Url);
             var viewName = listViewsToConfigure[i].Name;
             var rowLimit = listViewsToConfigure[i].RowLimit;
             var query = listViewsToConfigure[i].Query;
@@ -1114,7 +1116,7 @@ GT.jQuery(document).ready(function () {
         },
         version: {
             'key': 'glittertind_version',
-            'value': '1.0.0.0'
+            'value': '1.0.0.1'
         },
         webTemplate: {
             'key': 'glittertind_webtemplateid',
@@ -1131,7 +1133,7 @@ GT.jQuery(document).ready(function () {
     ).done(function (executor, dataSources) {
 
         var steps = {
-            '1.0.0.0': [
+            '1.0.0.1': [
                 new GT.Project.Setup.Model.step("Setter områdets temafarger", 0, GT.Project.Setup.ApplyTheme,
                     { colorPaletteName: "palette013.spcolor", fontSchemeName: "SharePointPersonality.spfont", backgroundImageUrl: "", shareGenerated: true }),
                 new GT.Project.Setup.Model.step("Setter områdets temafarger", 1, GT.Project.Setup.CreateSiteSettingsCustomActions, {}),
@@ -1142,7 +1144,7 @@ GT.jQuery(document).ready(function () {
             ]
         };
         var dataSourceSteps = GT.Project.Setup.GetCopyDataFromSourceListsSteps(dataSources, 6);
-        steps['1.0.0.0'] = steps['1.0.0.0'].concat(dataSourceSteps);
+        steps['1.0.0.1'] = steps['1.0.0.1'].concat(dataSourceSteps);
 
         var scriptbase = _spPageContextInfo.webServerRelativeUrl + "/_layouts/15/";
         GT.jQuery.getScript(scriptbase + "SP.js", function () {
@@ -1151,12 +1153,12 @@ GT.jQuery(document).ready(function () {
                 GT.Project.Setup.execute(properties, steps)
                 .done(function (shouldReload) {
                     if (shouldReload) {
-                        location.reload();
+                       // location.reload();
                     }
                     GT.Project.Setup.HandleOnTheFlyConfiguration(properties)
                     .done(function (shouldReload) {
                         if (shouldReload) {
-                            location.reload();
+                           // location.reload();
                         }
                     });
                 });
