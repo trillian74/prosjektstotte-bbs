@@ -3,7 +3,343 @@
     "Type": "GenericList",
     "Data": {
         "Rows": [
-           
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er det etablert et prosjektstyre?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er prosjekteier og prosjektleder utpekt?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er rollebeskrivelse for prosjekteier og prosjektleder etablert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er kontraktsomfang definert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er risikobilde etablert for prosjektet?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er budsjett definert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er milestones definert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er det konsensus rundt kontraktskravene?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er det tatt høyde for å unngå ulike typer konsekvenser / sanksjoner? "
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er det tatt høyde for hvordan  bonuser kan oppnås?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er CPS underlag ferdigstilt?(Forventet innhold: Kundegodkjente CSDS for alle malingsystemer i kontrakten. Kravspesifikasjoner for overflatebehandling i kontrakten: Prosjektspesifikke tilleggskrav til CPS)"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er IPS underlag ferdigstilt? (Forventet innhold: Godkjent beskrivelse av oppbygning og materialvalg for alle klasser og variasjoner av klasser i kontrakten: Kravspesifikasjoner for isolering i kontrakten: Prosjektspesifikke tilleggskrav til IPS)"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er kontraktens innehold knyttet til vederlag formidlet til nødvendige interessenter og forstått; eks: timerater, normer, faktorer, beregningsformler?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er prosjektorganisasjon kartlagt? "
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er prosjektets leveranser definert, og er de i overenstemmelse med resultatmålene?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er erfaringslogg oppdatert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er leveranser dokumentert og levert i henhold til plan?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er det noe utestående arbeid som prosjektet skal ha ansvar for å avslutte før neste fase?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er prosjektet organisert i henhold til virksomhetsstrategien?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Kan prosjektet overleves til prosjektleder / prosjektorganisasjon?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er prosjektet etablert i prosjektstøtteverktøyet?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
             {
                 "Fields": [
                     {
@@ -445,6 +781,458 @@
                     {
                         "Name": "GtProjectPhase",
                         "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            }
+
+
+
+            ,
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er prosjektet ihht budsjett og tidsplan?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            } ,
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er alle prosjektets interne målinger oppdatert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            } ,
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er alle prosjektets eksterne målinger oppdatert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            } ,
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er alle jobbene dokumentert tilfredstillende i WebTiv?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            } ,
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er alle jobbene dokumentert tilfredstillende i kundens system?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            } ,
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er alle endringer dokumentert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            } ,
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er risikomatrisen oppdatert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            } ,
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er erfaringsloggen oppdatert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            } ,
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er milepælsplanen oppdatert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            } ,
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er prosjekthåndboken oppdatert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            } ,
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er relevant prosjektdokumentasjon lagret i prosjektportalen?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            } ,
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Støttet prosjektet opp under virksomhetens mål og strategier?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            } ,
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er alle saker registrert inn i Synergi?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            } ,
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er prosjektet levert til kunde ihht kontrakt?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er restliste utarbeidet og godkjent?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er alt jobbdokumentasjon på plass i WebTiv?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er alt jobbdokumentasjon på plass i kunde sitt system?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er alle endringer godkjent av kunde?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er MTO (installert/påført mengde) oppdatert og lastet opp på Project Portal? "
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er Prosjekthåndboken oppdatert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er alle faktura generert og sendt til kunde?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er alle planlagte målinger og tiltak gjennomført?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er prosjektets utstyr demobilisert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er prosjektets personell demobilisert"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er forventede gevinster oppnådd eller er det behov for ytterligere tiltak? I så fall er det utarbeidet en tiltaksplan?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er Project Portal, WebTiv, Safran, AX, Synergi satt inn i låsemodus ihht arkiveringsstrategi?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er alle læringspunkter overført til erfaringsloggen?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Realisere|b7ba84f0-70b9-45c4-8c50-8f73bf15bbec"
+                    },
+                    {
+                        "Name": "ContentTypeId",
+                        "Value": "0x010088578E7470CC4AA68D5663464831070204"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er sluttrappor for prosjekt i Synergi opprettet?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Realisere|b7ba84f0-70b9-45c4-8c50-8f73bf15bbec"
                     },
                     {
                         "Name": "ContentTypeId",

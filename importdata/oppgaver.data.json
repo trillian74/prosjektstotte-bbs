@@ -2,39 +2,911 @@
     "Name": "Standardoppgaver",
     "Type": "TaskList",
     "Data": {
-        "Rows": [{
-            "Fields": [{
-                "Name": "Title",
-                "Value": "TEST Støtte oppdragsgiver (KTA ) i å definere krav og rammer etter behov"
+        "Rows": [
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Vurdere om det skal etableres et prosjektstyre"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    }
+                ]
             }, {
-                "Name": "GtProjectPhase",
-                "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
-            }],
-            "Rows": [{
-                "Fields": [{
-                    "Name": "Title",
-                    "Value": "TEST  for signert oppdragsbestilling"
-                }, {
-                    "Name": "GtProjectPhase",
-                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
-                }]
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Utpeke prosjekteier og prosjektleder"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    }
+                ]
             }, {
-                "Fields": [{
-                    "Name": "Title",
-                    "Value": "TEST Avklare økonomiske rammer/erfaringstall"
-                }, {
-                    "Name": "GtProjectPhase",
-                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
-                }]
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Etablere rollebeskrivelse for prosjekteier og prosjektleder"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    }
+                ]
             }, {
-                "Fields": [{
-                    "Name": "Title",
-                    "Value": " TEST Fylle ut sjekkliste for oppdragsavtale"
-                }, {
-                    "Name": "GtProjectPhase",
-                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
-                }]
-            }]
-        }]
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Definere kontraktsomfang"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Etablere risikobilde for prosjektet"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    }
+                ]
+            },{
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Definere budsjett"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Definere milestones"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Oppnå konsensus rundt kontraktskrevene"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Ta høyde for å  unngå ulike type konsekvenser / sanksjoner"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Gjøre seg kjent med vilkår for bonuser"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Ferdigstille CPS underlag ferdigstilt? (Forventet innhold: Kundegodkjente CSDS for alle malingsystemer i kontrakten. Kravspesifikasjoner for overflatebehandling i kontrakten. Prosjektspesifikke tilleggskrav til CPS)"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er IPS underlag ferdigstilt? (Forventet innhold:Godkjent beskrivelse av oppbygning og materialvalg for alle klasser og variasjoner av klasser i kontrakten. Kravspesifikasjoner for isolering i kontrakten. Prosjektspesifikke tilleggskrav til IPS)"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sørge for at kontraktens innehold knyttet til vederlag er formidlet til nødvendige interessenter og forstått; eks. timerater, normer, faktorer, beregningsformler"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Kartlegge prosjektorganisasjon"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sikre at prosjekter er organisert i henhold til virksomhetsstrategien"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Definere prosjektets leveranse som er i tråd med resultatmål"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Samle inn erfaringer fra tidligere prosjekter og aktiviteter som er nyttige for dette prosjektet"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sørge for at Project Portal er opprettet for prosjektet"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Overlevere prosjektet til prosjektleder/prosjektorganisasjon"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Etablere en endelig prosjektorganisasjon med roller og ansvar, og tilstrekkelige ressurser til å gjennomføre prosjektet"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Allokere alle nøkkelressurser"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sikre organisasjonskart"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Identifisere prosjektets mål og kritiske suksefaktorer"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Definere prosjektets  interessenter (ref. interessentelogg i Project Portal)"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Opprette en kommunikasjonsplan"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Bekrefte endringshåndtering med kunde"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Utarbeide en helhetlig og konsistent plan som bryter prosjektet ned i håndterbare faser? (milepælsplan)"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Oppdatere liste over relevante krav og standarder"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sikre at alle relevante styrende dokumenter er knyttet til prosjektets Project Portal"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Etablere prosjekthierarki i AX"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sikre at WebTiv er satt opp for prosjektet, evt. at det er satt opp en plan for å tilvirke WebTiv?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sikre PO/kostnadbærer for prosjektet"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sikre at timebærer i iCore er på plass"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sikre at nettverk i Safran er etablert"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sikre at tilganger til WebTiv, Safran, iCore, Synergi, Project Portalen er opprettet"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Etablere risikomatrisen for prosjektet"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sørge for at CPS er godkjent av kunde"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sørge for at IPS godkjent av kunde"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Utarbeide kvalitetsmatrise"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sørge for at gap identifisert i kvalitetsmatrisen er lukket"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Utarbeide HMS plan"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Utarbeide Inspection and Test Plan (ITP) "
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Utarbeidet nødvendige strategier for gjennomføring (for eksempel bemaningsstrategi, kvalitetsstrategi og anskaffelsesstrategi)"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Bestille alt nødvendig utstyr"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Bestille all nødvendig bemanning"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sørge for at linjeorganisasjonen er klar til å ta i bruk leveransene fra prosjektet og er nødvendig opplæring, brukerdokumentasjon, driftsrutiner osv  er utarbeidet og gjennomført"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Vurdere om prosjektet er ihht budsjett og tidsplan"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Oppdatere prosjektets interne målinger"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Oppdatere alle prosjektets eksterne målinger"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Avsjekk om alle jobbene dokumentert tilfredstillende i WebTiv"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sørge for at  alle jobbene dokumentert tilfredstillende i kundens system"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sørge for at alle endringer dokumentert"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Oppdatere risikomatrisen"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Oppdatere erfaringsloggen"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Oppdatere milepælsplanen"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Oppdatere prosjekthåndboken"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Oppdatere kommunikasjonsplanen"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Lagre at relevant prosjektdokumentasjon i Project Portal"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Støttet prosjektet opp under virksomhetens mål og strategier?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Registrere alle saker inn i Synergi"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Når det nærmer seg avslutningsfasen, vurdere om det er noe utestående arbeid som prosjektet skal ha ansvar for å avslutte"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomf\u00f8re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    }
+                ]
+            }
+            , {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Avsjekke om prosjektet levert til kunde ihht kontrakt"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    }
+                ]
+            } , {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sørge for at alle restliste er utarbeidet og godkjent"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    }
+                ]
+            } , {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sørge for at alt jobbdokumentasjon på plass i WebTiv"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    }
+                ]
+            } , {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sørge for at alt jobbdokumentasjon på plass i kunde sitt system"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    }
+                ]
+            } , {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sørge for at alle endringer godkjent av kunde"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    }
+                ]
+            } , {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sørge for at MTO (installert/påført mengde) oppdatert og lastet opp på Project Portal"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    }
+                ]
+            } , {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Oppdatere Prosjekthåndboken"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    }
+                ]
+            } , {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sørge for at alle faktura er generert og sendt til kunde"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    }
+                ]
+            } , {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Evaluere gjennomføring av alle planlagte målinger og tiltak"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    }
+                ]
+            } , {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sørge for at alle prosjektets utstyr er demobilisert"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    }
+                ]
+            } , {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sørge for at prosjektets personell er demobilisert"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    }
+                ]
+            } , {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Evaluere oppnåelse av forventede gevinster oppnådd eller er det behov for ytterligere tiltak. I så fall utarbeide en tiltaksplan"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    }
+                ]
+            } , {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Evaluere prosjektet og utarbeide sluttrapport"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    }
+                ]
+            } , {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Informere alle relevante interessenter om avslutning av prosjektet"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    }
+                ]
+            } , {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sørge for at alle relevante kontrakter og avtaler er formelt avsluttet"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    }
+                ]
+            } , {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Oppdatere og avslutte prosjektregnskapet"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    }
+                ]
+            } , {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Avslutte og arkivere prosjektetdokumentasjonen (produkt, kost, tid, kvalitet, ressursbruk)"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    }
+                ]
+            } , {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Formelt oppløse prosjektorganisasjonen ('KickOut')"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    }
+                ]
+            } , {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Sørge for at Project Portal, WebTiv, Safran, AX, Synergi satt inn i låsemodus ihht arkiveringsstrategi"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                    }
+                ]
+            } , {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Dokumentere positive og negative erfaringer for erfaringsoverføring til organisasjonens erfaringslogg"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Realisere|b7ba84f0-70b9-45c4-8c50-8f73bf15bbec"
+                    }
+                ]
+            }, {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Distribuere sluttarpport med fullstendig evaluering av prosjekt til alle interessante parter"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Realisere|b7ba84f0-70b9-45c4-8c50-8f73bf15bbec"
+                    }
+                ]
+            }
+        ]
     }
 }

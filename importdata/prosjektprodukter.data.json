@@ -1,0 +1,308 @@
+{
+    "Name": "Standardprodukter",
+    "Type": "GenericList",
+    "Data": {
+        "Rows": [
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Prosjektets sluttrapport"
+                    },
+                    {
+                        "Name": "GtProductPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "GtProductQualityExpectations",
+                        "Value": "test"
+                    },
+                    {
+                        "Name": "GtProductAcceptanceCriteria",
+                        "Value": "Test"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "prosjektets erfaringslogg"
+                    },
+                    {
+                        "Name": "GtProductPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "GtProductQualityExpectations",
+                        "Value": "test"
+                    },
+                    {
+                        "Name": "GtProductAcceptanceCriteria",
+                        "Value": "Test"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Prosjektets regnskap"
+                    },
+                    {
+                        "Name": "GtProductPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "GtProductQualityExpectations",
+                        "Value": "test"
+                    },
+                    {
+                        "Name": "GtProductAcceptanceCriteria",
+                        "Value": "Test"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Prosjektets risikologg"
+                    },
+                    {
+                        "Name": "GtProductPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "GtProductQualityExpectations",
+                        "Value": "test"
+                    },
+                    {
+                        "Name": "GtProductAcceptanceCriteria",
+                        "Value": "Test"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Prosjektets organisasjonskart"
+                    },
+                    {
+                        "Name": "GtProductPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "GtProductQualityExpectations",
+                        "Value": "test"
+                    },
+                    {
+                        "Name": "GtProductAcceptanceCriteria",
+                        "Value": "Test"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Prosjekthåndbok"
+                    },
+                    {
+                        "Name": "GtProductPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "GtProductQualityExpectations",
+                        "Value": "test"
+                    },
+                    {
+                        "Name": "GtProductAcceptanceCriteria",
+                        "Value": "Test"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "CPS"
+                    },
+                    {
+                        "Name": "GtProductPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "GtProductQualityExpectations",
+                        "Value": "test"
+                    },
+                    {
+                        "Name": "GtProductAcceptanceCriteria",
+                        "Value": "Test"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "IPS"
+                    },
+                    {
+                        "Name": "GtProductPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "GtProductQualityExpectations",
+                        "Value": "test"
+                    },
+                    {
+                        "Name": "GtProductAcceptanceCriteria",
+                        "Value": "Test"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Prosjektets planverktøy (Safran eller Kundens)"
+                    },
+                    {
+                        "Name": "GtProductPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "GtProductQualityExpectations",
+                        "Value": "test"
+                    },
+                    {
+                        "Name": "GtProductAcceptanceCriteria",
+                        "Value": "Test"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Prosjektets produksjonsstyringssystem (webTiv eller Kunde sitt)"
+                    },
+                    {
+                        "Name": "GtProductPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "GtProductQualityExpectations",
+                        "Value": "test"
+                    },
+                    {
+                        "Name": "GtProductAcceptanceCriteria",
+                        "Value": "Test"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Prosjektets fasesjekkliste for konsept"
+                    },
+                    {
+                        "Name": "GtProductPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "GtProductQualityExpectations",
+                        "Value": "test"
+                    },
+                    {
+                        "Name": "GtProductAcceptanceCriteria",
+                        "Value": "Test"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Prosjektets fasesjekkliste for Planlegging"
+                    },
+                    {
+                        "Name": "GtProductPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "GtProductQualityExpectations",
+                        "Value": "test"
+                    },
+                    {
+                        "Name": "GtProductAcceptanceCriteria",
+                        "Value": "Test"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Prosjektets fasesjekkliste for gjennomføring"
+                    },
+                    {
+                        "Name": "GtProductPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "GtProductQualityExpectations",
+                        "Value": "test"
+                    },
+                    {
+                        "Name": "GtProductAcceptanceCriteria",
+                        "Value": "Test"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Prosjektets fasesjekkliste for avslutning"
+                    },
+                    {
+                        "Name": "GtProductPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "GtProductQualityExpectations",
+                        "Value": "test"
+                    },
+                    {
+                        "Name": "GtProductAcceptanceCriteria",
+                        "Value": "Test"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Prosjektets fasesjekkliste for realisering"
+                    },
+                    {
+                        "Name": "GtProductPhase",
+                        "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                    },
+                    {
+                        "Name": "GtProductQualityExpectations",
+                        "Value": "test"
+                    },
+                    {
+                        "Name": "GtProductAcceptanceCriteria",
+                        "Value": "Test"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -20,7 +20,8 @@
     "ImportDataConfigurations": [
         "fasesjekkliste.data.json",
         "oppgaver.data.json",
-        "lenker.data.json"
+        "lenker.data.json",
+        "prosjektprodukter.data.json"
     ],
     "SiteFeatures": [
         {
@@ -122,7 +123,7 @@
                 "OnQuickLaunch": "false",
                 "RemoveExisitingContentTypes": "true",
                 "ContentTypes": [
-                    "Glittertind baseoppgave"
+                    "Prosjektportal baseoppgave"
                 ],
                 "Views": [
                     {
@@ -131,6 +132,30 @@
                         "ViewFields": [
                             "LinkTitle",
                             "GtProjectPhase",
+                            "Modified",
+                            "Editor"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": "Standardprodukter",
+                "Description": "",
+                "Url": "Lists/Standardprodukter",
+                "TemplateType": "100",
+                "VersioningEnabled": "true",
+                "OnQuickLaunch": "false",
+                "RemoveExisitingContentTypes": "true",
+                "ContentTypes": [
+                    "Prosjektproduktbase"
+                ],
+                "Views": [
+                    {
+                        "Title": "Alle oppgaver",
+                        "Rowlimit": 100,
+                        "ViewFields": [
+                            "LinkTitle",
+                            "GtProductPhase",
                             "Modified",
                             "Editor"
                         ]

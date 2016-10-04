@@ -8,6 +8,7 @@
                 "DstList": "Oppgaver",
                 "SrcWeb": "{sitecollectionrelative}",
                 "Fields": [
+                    "ID",
                     "Title",
                     "GtProjectPhase",
                     "ParentIDId",
@@ -16,10 +17,27 @@
             },
             {
                 "ListType": "GenericList",
+                "SrcList": "Standardprodukter",
+                "DstList": "Prosjektprodukter",
+                "SrcWeb": "{sitecollectionrelative}",
+                "Fields": [
+                    "ID",
+                    "Title",
+                    "GtProductPhase",
+                    "GtProductQualityExpectations",
+                    "GtProductAcceptanceCriteria",
+                    "GtProductQualityTolerance",
+                    "GtProductAcceptanceMethod",
+                    "GtProductAcceptanceDate"
+                ]
+            },
+            {
+                "ListType": "GenericList",
                 "SrcList": "Fasesjekkliste",
                 "DstList": "Fasesjekkliste",
                 "SrcWeb": "{sitecollectionrelative}",
                 "Fields": [
+                    "ID",
                     "Title",
                     "GtProjectPhase"
                 ]
@@ -30,6 +48,7 @@
                 "DstList": "Interessentregister",
                 "SrcWeb": "{sitecollectionrelative}",
                 "Fields": [
+                    "ID",
                     "Title",
                     "GtStakeholderGroup",
                     "GtStakeholderContext",
@@ -45,6 +64,7 @@
                 "DstList": "Dokumenter",
                 "SrcWeb": "{sitecollectionrelative}",
                 "Fields": [
+                    "ID",
                     "Title",
                     "GtProjectPhase"
                 ]
