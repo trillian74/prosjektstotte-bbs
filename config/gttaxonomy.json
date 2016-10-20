@@ -241,48 +241,30 @@
         {
             "Terms": [
                 {
-                    "Title": "Skole og oppvekst",
-                    "Id": "46475d37-c854-439e-b04b-2433f2dc2566"
+                    "Title": "Prosjekt",
+                    "Id": "4450188b-0496-4d82-8da4-57d87ee46dfd"
                 },
                 {
-                    "Title": "Helse og velferd",
-                    "Id": "88058353-ac05-4652-a4fc-690b649ab03a"
+                    "Title": "Produksjon",
+                    "Id": "513dd0e5-ac1e-459d-b9bf-db0a9e1504b5"
                 },
                 {
-                    "Title": "Plan, bygg og geodata",
-                    "Id": "ab3dd407-a44b-4783-aa45-481fb9f564ba"
-                },
-                {
-                    "Title": "Trafikk og samferdsel",
-                    "Id": "6479faf1-3141-46ef-94d6-fc65e8f51448"
-                },
-                {
-                    "Title": "Kultur, idrett og fritid",
-                    "Id": "8b3870f8-59a2-4cef-a281-19228b286bbf"
-                },
-                {
-                    "Title": "Natur og milj\u00f8",
-                    "Id": "e302dff1-4fb3-4d86-894a-f3bd769f4764"
-                },
-                {
-                    "Title": "Vann og avl\u00f8p",
-                    "Id": "8d1082d0-a44d-452d-baef-212b938c5102"
-                },
-                {
-                    "Title": "Arbeid og n\u00e6ringsliv",
-                    "Id": "27805ae3-5749-44d9-94a7-146eedb06cfb"
-                },
-                {
-                    "Title": "Skatt og avgift",
-                    "Id": "40191080-4a2a-4b8f-9c76-c31be95ae5d4"
-                },
-                {
-                    "Title": "Administrasjon og IKT",
-                    "Id": "b81d2835-beae-41ae-a810-89cf1bea480f"
+                    "Title": "Administrasjon",
+                    "Id": "b8b1d816-a05b-4301-8176-52dd0679fae9"
                 }
             ],
             "Title": "Tjenesteomr\u00e5de",
             "Id": "99af1a25-88c1-4781-a05c-8446928d3fdd"
+        },
+         {
+            "Terms": [
+                {
+                    "Title": "UPN",
+                    "Id": "6d018a3d-f960-4c43-8fa3-a8e016078b59"
+                }
+            ],
+            "Title": "Risikomatrise",
+            "Id": "c44676c9-ef4f-4d7d-a026-0eda50aed4a8"
         },
         {
             "Terms": [
@@ -1175,24 +1157,20 @@
         {
             "Terms": [
                 {
-                    "Title": "Anlegg",
-                    "Id": "26a1b6a7-9a4b-4a26-be46-7f6bb0e07475"
+                    "Title": "Offshore MMO",
+                    "Id": "47c4de8e-8adf-403c-91aa-919598bff111"
                 },
                 {
-                    "Title": "Bygg",
-                    "Id": "81d51eff-4dd8-4d9f-8373-327ce4cfebb9"
+                    "Title": "Onshore MMO",
+                    "Id": "77165d35-a8df-4a17-aa61-7bc043300bbb"
                 },
                 {
-                    "Title": "IKT",
-                    "Id": "f43d2dcf-27c8-432d-8b9b-dae09d9b0d7a"
+                    "Title": "Major Project",
+                    "Id": "30e4dce1-f2aa-4cd1-9d57-e671e7c3634d"
                 },
                 {
                     "Title": "Annet",
                     "Id": "088eeab9-8ebd-4a53-976c-e7b9a5e7eed9"
-                },
-                {
-                    "Title": "Organisasjonsutvikling",
-                    "Id": "682706ae-a2d7-47ed-81d7-f8b6f30e0340"
                 }
             ],
             "Title": "Prosjekttype",

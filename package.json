@@ -1,0 +1,25 @@
+{
+  "name": "gt-master",
+  "version": "1.0.0",
+  "description": "Dette er prosjekt",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^3.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.7.1"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trillian74/prosjektstotte-bbs.git"
+  },
+  "author": "Ole Bergtun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trillian74/prosjektstotte-bbs/issues"
+  },
+  "homepage": "https://github.com/trillian74/prosjektstotte-bbs#readme"
+}

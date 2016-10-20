@@ -30,7 +30,7 @@
     },
     {
         "Description": "Innholdstype for TI med mal",
-        "DisplayName": "TI MAIL",
+        "DisplayName": "TI MAL",
         "Fields": [],
         "Group": "BBC Prosjektportal Innholdstyper",
         //ment å arve fra prosjektdokument
@@ -151,10 +151,6 @@
             "FileName": "HMS mom.dotx"
         }
     },
-
-
-
-
     {
         "Description": "",
         "DisplayName": "Prosjektportal nettdelside",
@@ -175,6 +171,7 @@
             "GtProjectOwner",
             "GtStartDate",
             "GtEndDate",
+            "BBRiskMatrix",
             "GtStatusRisk",
             "GtStatusRiskComment",
             "GtStatusTime",
@@ -312,7 +309,8 @@
             "GtProductQualityResponsible",
             "GtProductAcceptanceMethod",
             "GtProductAcceptanceResponsible",
-            "GtProductAcceptanceDate"
+            "GtProductAcceptanceDate",
+            "BBRecurrance"
         ],
         "Group": "Prosjektportal Innholdstyper",
         "ID": "0x010088578e7470cc4aa68d5663464831070205",
@@ -348,7 +346,8 @@
         "ID": "0x010800233b015f95174c9a8eb505493841de8d",
         "InternalName": "GtTaskBase",
         "RequiredFields": [
-            "GtProjectPhase"
+            "GtProjectPhase",
+            "BBProjectActivity"
         ]
     },
     {
@@ -376,7 +375,10 @@
     {
         "Description": "",
         "DisplayName": "Prosjekthendelse",
-        "Fields": [],
+        "Fields": [
+            "AssignedTo",
+            "BBProjectActivity"
+        ],
         "Group": "Prosjektportal Innholdstyper",
         "ID": "0x010200a2b2ac17a2244b8590398a9d1e7e3e3701",
         "InternalName": "GtProjectEvent",

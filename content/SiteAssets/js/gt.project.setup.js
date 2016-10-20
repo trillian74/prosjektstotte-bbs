@@ -747,6 +747,8 @@ GT.Project.Setup.ExecuteCustomSteps = function () {
     return deferred.promise();
 };
 
+GT.Project.Setup.EnableAssignToEmail = function(){
+};
 // TODO; At some point refactor this to be configured in json-files
 GT.Project.Setup.CreateWebContentTypes = function () {
     var deferred = GT.jQuery.Deferred();
@@ -754,6 +756,7 @@ GT.Project.Setup.CreateWebContentTypes = function () {
     GT.jQuery.when(
         GT.Project.Setup.ContentTypes.CreateContentType("Kommunikasjonselement", "GtProjectCommunicationElement", "", "0x010088578e7470cc4aa68d5663464831070203"),
         GT.Project.Setup.ContentTypes.CreateContentType("Prosjektoppgave", "GtProjectTask", "", "0x010800233b015f95174c9a8eb505493841de8d"),
+        //GT.Project.Setup.ContentTypes.CreateContentType("Prosjektoppgave", "GtProjectTask", "", "0x010800233b015f95174c9a8eb505493841de8d"),
         GT.Project.Setup.ContentTypes.CreateContentType("Prosjektprodukt", "GtProjectProduct", "", "0x010088578e7470cc4aa68d5663464831070205"),
         GT.Project.Setup.ContentTypes.CreateContentType("Prosjektloggelement", "GtProjectLog", "", "0x010088578e7470cc4aa68d5663464831070206")
     ).then(function () {

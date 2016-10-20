@@ -146,6 +146,23 @@
         "Type": "Choice"
     },
     {
+        "Choices": [
+            "Daglig",
+            "Ukentlig",
+            "Månedlig",
+            "Årlig",
+            "Ingen"
+        ],
+        "Default": "Ingen",
+        "Description": "Skal oppgaven være gjenntakende",
+        "DisplayName": "Gjentakende",
+        "Format": "Dropdown",
+        "Group": "BBC Prosjektportal Områdekolonner",
+        "ID": "1a5bd265-06f2-4524-8981-4f92cc2a0f31",
+        "InternalName": "BBRecurrance",
+        "Type": "Choice"
+    },
+    {
         // "CalculatedProps": {
         //     "FieldRefs": [{
         //         "ID": "8c06beca-0777-48f7-91c7-6da68bc07b69",
@@ -196,6 +213,15 @@
         "ID": "6b3251ca-b67f-4b6a-ab65-2e07892fe0e6",
         "InternalName": "BBRegardingMonth",
         "TermSetId": "372aacac-3f8b-45a6-8ed5-b4c2d5c66d90",
+        "Type": "TaxonomyFieldType"
+    },
+    {
+        "Description": "Beskriver hvilken matrise som benyttes for risiko",
+        "DisplayName": "Risikomatrise",
+        "Group": "BBC Prosjektportal Områdekolonner",
+        "ID": "66fdb236-39a2-4389-aedc-b3e6968c68a5",
+        "InternalName": "BBRiskMatrix",
+        "TermSetId": "c44676c9-ef4f-4d7d-a026-0eda50aed4a8",
         "Type": "TaxonomyFieldType"
     },
     {
