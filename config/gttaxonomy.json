@@ -254,13 +254,19 @@
                 }
             ],
             "Title": "Tjenesteomr\u00e5de",
-            "Id": "99af1a25-88c1-4781-a05c-8446928d3fdd"
+            "Id": "739dbacd-624f-477d-b2d2-166993f2a337"
         },
          {
             "Terms": [
                 {
                     "Title": "UPN",
                     "Id": "6d018a3d-f960-4c43-8fa3-a8e016078b59"
+
+                },
+                  {
+                    "Title": "Kværner",
+                    "Id": "7186793e-61f5-42fb-9796-a16d4807ce0b"
+                    
                 }
             ],
             "Title": "Risikomatrise",
@@ -270,57 +276,57 @@
             "Terms": [
                 {
                     "Title": "Konsept",
-                    "Id": "99e85650-33de-4af4-b8db-edffbc8a310b",
+                    "Id": "3962838f-b2c1-4439-b134-f6c757a0677d",
                     "LocalCustomProperties": {
                         "ShowOnFrontpage": "true"
                     }
                 },
                 {
                     "Title": "Planlegge",
-                    "Id": "cda4f1e1-3488-4e57-8a04-6973df239689",
+                    "Id": "b3405a22-8653-45ac-8d96-f520a2828c28",
                     "LocalCustomProperties": {
                         "ShowOnFrontpage": "true"
                     }
                 },
                 {
                     "Title": "Gjennomf\u00f8re",
-                    "Id": "99d7765a-c786-4792-a1a1-866ef0f982b9",
+                    "Id": "b8c1871b-f35d-4cd7-9337-ab1c8615a8d9",
                     "LocalCustomProperties": {
                         "ShowOnFrontpage": "true"
                     }
                 },
                 {
                     "Title": "Avslutte",
-                    "Id": "30e03c52-8c3e-4cfe-9b18-ca71593ce130",
+                    "Id": "05d4f388-d96d-42ca-8b63-8e6594cae26a",
                     "LocalCustomProperties": {
                         "ShowOnFrontpage": "true"
                     }
                 },
                 {
                     "Title": "Realisere",
-                    "Id": "b7ba84f0-70b9-45c4-8c50-8f73bf15bbec",
+                    "Id": "0de68559-e4b3-40da-b51f-c28f7ecd7d9e",
                     "LocalCustomProperties": {
                         "ShowOnFrontpage": "true"
                     }
                 },
                 {
                     "Title": "Flere faser",
-                    "Id": "777cc6ac-4639-4633-85b9-f1ef61197c4d",
+                    "Id": "d88e49b3-7a23-4cda-aa70-33f0735da9ca",
                     "LocalCustomProperties": {
                         "ShowOnFrontpage": "false"
                     }
                 },
                 {
                     "Title": "Ingen fase",
-                    "Id": "6edb42ac-9aaf-4f07-9cf5-5dfdf9ab0c32",
+                    "Id": "d1a0c3bb-bc1a-43c2-b064-4b65667c6330",
                     "LocalCustomProperties": {
                         "ShowOnFrontpage": "false"
                     }
                 }
             ],
             "Title": "Fase",
-            "Id": "abcfc9d9-a263-4abb-8234-be973c46258a",
-            "CustomSortOrder": "6edb42ac-9aaf-4f07-9cf5-5dfdf9ab0c32:777cc6ac-4639-4633-85b9-f1ef61197c4d:99e85650-33de-4af4-b8db-edffbc8a310b:cda4f1e1-3488-4e57-8a04-6973df239689:99d7765a-c786-4792-a1a1-866ef0f982b9:30e03c52-8c3e-4cfe-9b18-ca71593ce130:b7ba84f0-70b9-45c4-8c50-8f73bf15bbec"
+            "Id": "ed7fa945-4d74-4262-8f78-f5750fd38e60",
+            "CustomSortOrder": "d1a0c3bb-bc1a-43c2-b064-4b65667c6330:d88e49b3-7a23-4cda-aa70-33f0735da9ca:3962838f-b2c1-4439-b134-f6c757a0677d:b3405a22-8653-45ac-8d96-f520a2828c28:b8c1871b-f35d-4cd7-9337-ab1c8615a8d9:05d4f388-d96d-42ca-8b63-8e6594cae26a:0de68559-e4b3-40da-b51f-c28f7ecd7d9e"
         },
         {
             "Terms": [
@@ -1174,9 +1180,9 @@
                 }
             ],
             "Title": "Prosjekttype",
-            "Id": "3930cddb-fa4d-496f-b314-03ecabb91de1"
+            "Id": "0e224db2-1ed7-4edc-a678-ca02988be08c"
         }
     ],
     "Title": "Prosjektportalen",
-    "Id": "c56bb677-f782-4cf6-a6d6-17685ee9f19d"
+    "Id": "32ef514f-38e7-43a0-9582-d30f0ad31678"
 }

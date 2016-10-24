@@ -21,7 +21,7 @@
         "Group": "Prosjektportal Områdekolonner",
         "ID": "325543a5-815d-485d-a9a5-e0773ad762e9",
         "InternalName": "GtProjectPhase",
-        "TermSetId": "abcfc9d9-a263-4abb-8234-be973c46258a",
+        "TermSetId": "ed7fa945-4d74-4262-8f78-f5750fd38e60",
         "Type": "TaxonomyFieldType"
     },  {
         "Choices": [
@@ -248,7 +248,7 @@
         "Group": "Prosjektportal Områdekolonner",
         "ID": "ddb69044-7d2c-4865-86ec-b71413780409",
         "InternalName": "GtProjectType",
-        "TermSetId": "3930cddb-fa4d-496f-b314-03ecabb91de1",
+        "TermSetId": "0e224db2-1ed7-4edc-a678-ca02988be08c",
         "Type": "TaxonomyFieldTypeMulti"
     },
     {
@@ -257,7 +257,7 @@
         "Group": "Prosjektportal Områdekolonner",
         "ID": "3275d73a-fd4d-48ba-bcc1-31526460d57b",
         "InternalName": "GtProjectServiceArea",
-        "TermSetId": "99af1a25-88c1-4781-a05c-8446928d3fdd",
+        "TermSetId": "739dbacd-624f-477d-b2d2-166993f2a337",
         "Type": "TaxonomyFieldTypeMulti"
     },
     {
@@ -266,6 +266,14 @@
         "Group": "Prosjektportal Områdekolonner",
         "ID": "d46bed8f-0fb6-4684-8221-632fdb12598f",
         "InternalName": "GtProjectManager",
+        "Type": "User"
+    },
+    {
+        "Description": "",
+        "DisplayName": "Planlegger",
+        "Group": "Prosjektportal Områdekolonner",
+        "ID": "ecaca156-7e1c-454d-9d8e-eacd1bd8b5b2",
+        "InternalName": "GtPlanner",
         "Type": "User"
     },
     {
@@ -623,7 +631,7 @@
         "Group": "Prosjektportal Områdekolonner",
         "ID": "5563056f-533f-4333-bd29-85a2f94a37d0",
         "InternalName": "GtProductPhase",
-        "TermSetId": "abcfc9d9-a263-4abb-8234-be973c46258a",
+        "TermSetId": "ed7fa945-4d74-4262-8f78-f5750fd38e60",
         "Type": "TaxonomyFieldType"
     },
     {

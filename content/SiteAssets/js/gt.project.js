@@ -316,7 +316,7 @@ GT.Project.GetPhaseTermSetId = function () {
     })
     .fail(function() {
         console.log("Could not find settings file for getting taxonomy term set id. Resolving to default.");
-        defer.resolve("abcfc9d9-a263-4abb-8234-be973c46258a");
+        defer.resolve("ed7fa945-4d74-4262-8f78-f5750fd38e60");
     });
     return defer.promise();
 };

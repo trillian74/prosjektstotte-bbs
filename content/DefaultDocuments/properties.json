@@ -4,7 +4,7 @@
     "Properties": {
         "Title": "Gevinstrealiseringsplan",
         "ContentTypeId": "0x010100293fde3fcada480b9a77bbdad7dfa28c01",
-        "GtProjectPhase": "-1;#Realisere|b7ba84f0-70b9-45c4-8c50-8f73bf15bbec"
+        "GtProjectPhase": "-1;#Realisere|0de68559-e4b3-40da-b51f-c28f7ecd7d9e"
     }
 }, {
     "Path": "Prosjektbegrunnelse.docx",
@@ -12,7 +12,7 @@
     "Properties": {
         "Title": "Prosjektbegrunnelse",
         "ContentTypeId": "0x010100293fde3fcada480b9a77bbdad7dfa28c01",
-        "GtProjectPhase": "-1;#Flere faser|777cc6ac-4639-4633-85b9-f1ef61197c4d"
+        "GtProjectPhase": "-1;#Flere faser|d88e49b3-7a23-4cda-aa70-33f0735da9ca"
     }
 }, {
     "Path": "Prosjektforslag.docx",
@@ -20,7 +20,7 @@
     "Properties": {
         "Title": "Prosjektforslag",
         "ContentTypeId": "0x010100293fde3fcada480b9a77bbdad7dfa28c01",
-        "GtProjectPhase": "-1;#Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+        "GtProjectPhase": "-1;#Planlegge|b3405a22-8653-45ac-8d96-f520a2828c28"
     }
 }, {
     "Path": "Prosjektmandat.docx",
@@ -28,7 +28,7 @@
     "Properties": {
         "Title": "Prosjektmandat",
         "ContentTypeId": "0x010100293fde3fcada480b9a77bbdad7dfa28c01",
-        "GtProjectPhase": "-1;#Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+        "GtProjectPhase": "-1;#Konsept|3962838f-b2c1-4439-b134-f6c757a0677d"
     }
 }, {
     "Path": "Sluttrapport.docx",
@@ -36,7 +36,7 @@
     "Properties": {
         "Title": "Sluttrapport",
         "ContentTypeId": "0x010100293fde3fcada480b9a77bbdad7dfa28c01",
-        "GtProjectPhase": "-1;#Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+        "GtProjectPhase": "-1;#Avslutte|05d4f388-d96d-42ca-8b63-8e6594cae26a"
     }
 }, {
     "Path": "Styringsdokument.docx",
@@ -44,6 +44,6 @@
     "Properties": {
         "Title": "Styringsdokument",
         "ContentTypeId": "0x010100293fde3fcada480b9a77bbdad7dfa28c01",
-        "GtProjectPhase": "-1;#Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
+        "GtProjectPhase": "-1;#Gjennomføre|b8c1871b-f35d-4cd7-9337-ab1c8615a8d9"
     }
 }]
