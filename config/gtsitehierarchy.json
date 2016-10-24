@@ -12,9 +12,7 @@
         "gttaxonomy.json"
     ],
     "SandboxedSolutions": [
-        "Glittertind.SharePoint.wsp",
-        "Recurring tasks.wsp",
-        "Test.wsp"
+        "Glittertind.SharePoint.wsp"
     ],
     "SearchConfigurations": [
         "Prosjektportalen-konfigurasjon.xml"
@@ -26,10 +24,6 @@
         "prosjektprodukter.data.json"
     ],
     "SiteFeatures": [
-        {
-            "FeatureId":"5d505d91-57be-4595-b60d-33c593b4f661",
-            "FeatureName": "Glittertind.SharePoint.Project_SiteProjectWebTemplate"
-        },
         {
             "FeatureId": "9ca326d3-723f-4e65-b8f9-db7e18802ac4",
             "FeatureName": "Glittertind.SharePoint.Project_SiteProjectWebTemplate"

@@ -311,8 +311,7 @@
             "GtProductQualityResponsible",
             "GtProductAcceptanceMethod",
             "GtProductAcceptanceResponsible",
-            "GtProductAcceptanceDate",
-            "BBRecurrance"
+            "GtProductAcceptanceDate"
         ],
         "Group": "Prosjektportal Innholdstyper",
         "ID": "0x010088578e7470cc4aa68d5663464831070205",
@@ -342,7 +341,8 @@
         "DisplayName": "Prosjektportal baseoppgave",
         "Fields": [
             "GtProjectPhase",
-            "GtProjectTaskUrl"
+            "GtProjectTaskUrl",
+            "BBRecurrance"
         ],
         "Group": "Prosjektportal Innholdstyper",
         "ID": "0x010800233b015f95174c9a8eb505493841de8d",

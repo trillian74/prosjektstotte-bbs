@@ -6,10 +6,14 @@
     "Views": [
 	    {
 	    	"Name": "Alle oppgaver",
-	        "ViewFields": ["Checkmark", "LinkTitle", "StartDate", "DueDate", "AssignedTo", "GtProjectPhase", "Modified", "Editor"],
+	        "ViewFields": ["Checkmark", "LinkTitle", "StartDate", "DueDate", "AssignedTo","PercentComplete", "GtProjectPhase", "BBRecurrance", "Modified", "Editor"],
 	        "RowLimit": 0,
             "Paged":true,
 	        "Query": ""
+	    },
+		 {
+	    	"Name": "Mine oppgaver",
+	        "ViewFields": ["Checkmark", "LinkTitle", "StartDate", "DueDate", "AssignedTo","PercentComplete", "GtProjectPhase", "BBRecurrance", "Modified", "Editor"],
 	    },
         {
 	    	"Name": "",

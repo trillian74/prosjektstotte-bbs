@@ -79,6 +79,20 @@ GT.Project.Setup.CreateSiteSettingsCustomActions = function () {
             newCustomAction.set_url(customActionJavaScript);
             newCustomAction.update();
 
+            var newCustomAction2 = customActions.add();
+            newCustomAction2.set_location('Microsoft.SharePoint.SiteSettings');
+            newCustomAction2.set_group('Customization');
+            newCustomAction2.set_sequence(160);
+            newCustomAction2.set_name('GT.SiteSettings.CopyTasks2');
+            newCustomAction2.set_title('Hent fasesjekker fra porteføljeområdet');
+            newCustomAction2.set_description('Velg fasesjekker fra porteføljeområdet og kopier fasesjekkene til prosjektet.');
+            
+            // var siteColRelativeUrl = _spPageContextInfo.siteServerRelativeUrl === '/' ? '' : _spPageContextInfo.siteServerRelativeUrl;
+            var customActionJavaScript2 = String.format('{0}/SitePages/KopierElementer.aspx?srclist={1}&dstlist={2}&dstweb={3}&Origin=SiteSettings', siteColRelativeUrl, 'Fasesjekkliste', 'Fasesjekkliste', encodeURIComponent(_spPageContextInfo.webServerRelativeUrl));;
+
+            newCustomAction2.set_url(customActionJavaScript2);
+            newCustomAction2.update();
+
             clientContext.load(web, 'Title', 'UserCustomActions');
             clientContext.executeQueryAsync(Function.createDelegate(this, function () {
                 console.log('Configured custom actions for site');
