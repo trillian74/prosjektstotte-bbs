@@ -128,12 +128,10 @@
     },
     {
         "Choices": [
-            "HMS",
-            "Kvalitet",
-            "Omdømme",
-            "Plan",
-            "Økonomi",
-            "Annet",
+            "Person",
+            "Matetriell",
+            "Ytre miljø",
+            "Omdømme",            
             "N/A"
         ],
         "Default": "N/A",
@@ -427,18 +425,6 @@
         "Type": "Number"
     },
     {
-        "Choices": [
-            "Intern",
-            "Ekstern"
-        ],
-        "Description": "",
-        "DisplayName": "Nærhet",
-        "Group": "Prosjektportal Områdekolonner",
-        "ID": "c755525b-3716-4ee8-a4f4-f9684808c009",
-        "InternalName": "GtRiskProximity",
-        "Type": "Choice"
-    },
-    {
         "CalculatedProps": {
             "FieldRefs": [
                 {
@@ -462,7 +448,7 @@
     },
     {
         "Description": "",
-        "DisplayName": "Tiltak",
+        "DisplayName": "Barrierer",
         "Group": "Prosjektportal Områdekolonner",
         "ID": "6219fd33-2f3c-42f5-9790-174143bfb99c",
         "InternalName": "GtRiskAction",

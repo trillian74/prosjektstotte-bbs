@@ -121,7 +121,7 @@ GT.Project.ChangeProjectPhase = function () {
             GT.jQuery.when(
                 GT.Project.ChangeQueryOfListViewOnPage(safeTerm.get_label(), "Dokumenter", "SitePages/Forside.aspx"),
                 GT.Project.ChangeQueryOfListViewOnPage(safeTerm.get_label(), "Oppgaver", "SitePages/Forside.aspx"),
-                GT.Project.ChangeQueryOfListViewOnPage(safeTerm.get_label(), "Usikkerhet", "SitePages/Forside.aspx"),
+                GT.Project.ChangeQueryOfListViewOnPage(safeTerm.get_label(), "Risiko", "SitePages/Forside.aspx"),
                 GT.Project.SetMetaDataDefaultsForLib("Dokumenter", "GtProjectPhase", safeTerm)
             ).then(function () {
                 deferred.resolve();

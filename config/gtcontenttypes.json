@@ -7,6 +7,28 @@
         "InternalName": "GtBaseDocument"
     },
     {
+        "Description": "Dette er en mappe som er søkbar og har dokumenter med en tilhørende velkommenside",
+        "DisplayName": "Prosjektmappe",
+        "Group": "BBC Prosjektportal Innholdstyper",
+        "ID": "0x0120D520003AAFD4C37684427CA2C92723FFE04892",
+        "InternalName": "BBBaseDocumentSet",
+         "Fields": [
+            "GtProjectNumber",
+            "GtProjectPhase",
+            "BBCustomer",
+            "BBInstallation",
+            "BBDiscipline",
+            "BBProjectActivity",
+            "BBRegardingYear",
+            "BBRegardingMonth",
+            "BBRegardingWeek",
+            "BBClassification"
+        ], "RequiredFields": [
+            "GtProjectPhase",
+            "GtProjectNumber"
+        ]
+    },
+    {
         "Description": "",
         "DisplayName": "Prosjektdokument",
         "Fields": [
@@ -25,7 +47,8 @@
         "ID": "0x010100293fde3fcada480b9a77bbdad7dfa28c01",
         "InternalName": "GtProjectDocument",
         "RequiredFields": [
-            "GtProjectPhase"
+            "GtProjectPhase",
+            "GtProjectNumber"
         ]
     },
     {
@@ -214,22 +237,23 @@
     },
     {
         "Description": "",
-        "DisplayName": "Usikkerhet",
+        "DisplayName": "Risiko",
         "Fields": [
             "GtProjectPhase",
-            "GtIsRiskOpen",
             "BBCustomer",
             "BBRiskCategory",
+            "BBDiscipline",
             "GtActionResponsible",
-            "GtActionDueDate",
             "GtRiskProbability",
             "GtRiskConsequence",
             "GtRiskProximity",
             "GtRiskFactor",
             "GtRiskAction",
+            "GtActionDueDate",
             "GtRiskProbabilityPostAction",
             "GtRiskConsequencePostAction",
             "GtRiskFactiorPostAction",
+            "GtIsRiskOpen",
             "BbDuration",
             "BbStartRiskDate",
             "BbSluttRiskDate"

@@ -780,7 +780,7 @@ GT.Project.Setup.CreateWebContentTypes = function () {
             GT.Project.Setup.ContentTypes.UpdateListContentTypes("Prosjektlogg", ["Prosjektloggelement"]),
             GT.Project.Setup.ContentTypes.UpdateListContentTypes("Interessentregister", ["Interessent"]),
             GT.Project.Setup.ContentTypes.UpdateListContentTypes("Informasjon", ["Infoelement"]),
-            GT.Project.Setup.ContentTypes.UpdateListContentTypes("Usikkerhet", ["Risiko", "Mulighet"]),
+            GT.Project.Setup.ContentTypes.UpdateListContentTypes("Risiko", ["Risiko", "Mulighet"]),
             GT.Project.Setup.ContentTypes.UpdateListContentTypes("Oppgaver", ["Prosjektoppgave"]),
             GT.Project.Setup.ContentTypes.UpdateListContentTypes("Møtekalender", ["Prosjekthendelse"]),
             GT.Project.Setup.ContentTypes.UpdateListContentTypes("Fasesjekkliste", ["Sjekkpunkt"]),
@@ -794,7 +794,7 @@ GT.Project.Setup.CreateWebContentTypes = function () {
                     GT.Project.Setup.ContentTypes.CreateLookupSiteColumn("Interessent(er)", "GtProductInteressent", "Interessentregister", "Title", "{6d90e0b6-73e6-48fb-aa1e-b897b214f934}", false, true, ""),
                     GT.Project.Setup.ContentTypes.CreateLookupSiteColumn("Påvirker produkt", "GtProjectLogProductLookup", "Prosjektprodukter", "Title", "{022cc93f-13df-4420-bd47-55e4fdae5d18}", false, true, "Velg hvilke(t) prosjektprodukt som blir påvirket av dette."),
                     GT.Project.Setup.ContentTypes.CreateLookupSiteColumn("Til prosjektstyre", "GtProjectLogEventLookup", "Møtekalender", "GtProjectEventDateAndTitle", "{20731fb1-e98e-4fdc-b3d6-941b41b8fd6e}", false, false, "Dersom dette skal opp i prosjektstyret velger du dato for styringsgruppemøtet her."),
-                    GT.Project.Setup.ContentTypes.CreateLookupSiteColumn("Relevant usikkerhet", "GtProjectTaskRisk", "Usikkerhet", "Title", "{920b385c-756f-49eb-98e7-4c3ebf15b7f4}", false, false, ""),
+                    GT.Project.Setup.ContentTypes.CreateLookupSiteColumn("Relevant Risiko", "GtProjectTaskRisk", "Risiko", "Title", "{920b385c-756f-49eb-98e7-4c3ebf15b7f4}", false, false, ""),
                     GT.Project.Setup.ContentTypes.CreateLookupSiteColumn("Relevant kommunikasjonselement", "GtProjectTaskComElement", "Kommunikasjonsplan", "Title", "{087dae25-b007-4e58-91b4-347dde464840}", false, false, "")
                 ).then(function () {
                     GT.jQuery.when(
