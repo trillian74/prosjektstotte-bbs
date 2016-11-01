@@ -12,7 +12,7 @@
         "Group": "BBC Prosjektportal Innholdstyper",
         "ID": "0x0120D520003AAFD4C37684427CA2C92723FFE04892",
         "InternalName": "BBBaseDocumentSet",
-         "Fields": [
+        "Fields": [
             "GtProjectNumber",
             "GtProjectPhase",
             "BBCustomer",
@@ -23,7 +23,8 @@
             "BBRegardingMonth",
             "BBRegardingWeek",
             "BBClassification"
-        ], "RequiredFields": [
+        ],
+        "RequiredFields": [
             "GtProjectPhase",
             "GtProjectNumber"
         ]
@@ -66,7 +67,24 @@
         "Template": {
             "FileName": "TIMAL.dotx"
         }
-    },{
+    },
+    {
+        "Description": "Innholdstype for presentasjon",
+        "DisplayName": "Presentasjon",
+        "Fields": [],
+        "Group": "BBC Prosjektportal Innholdstyper",
+        //ment å arve fra prosjektdokument
+        "ID": "0x010100293fde3fcada480b9a77bbdad7dfa28c0113",
+        "Inherits": "TRUE",
+        "InternalName": "BBPresentation",
+        "RequiredFields": [
+            "GtProjectPhase"
+        ],
+        "Template": {
+            "FileName": "prsentasjon.potx"
+        }
+    },
+    {
         "Description": "Innholdstype for Problemløsning A3 MAL",
         "DisplayName": "Problemløsning A3",
         "Fields": [],
@@ -82,7 +100,7 @@
             "FileName": "ProblemlosningsA3MALClean.dotx"
         }
     },
-{
+    {
         "Description": "Innholdstype for Problemløsning A3 MAL med stikkord",
         "DisplayName": "Problemløsning A3 med stikkord",
         "Fields": [],
@@ -97,7 +115,8 @@
         "Template": {
             "FileName": "ProblemlosningsA3MAL.dotx"
         }
-    },{
+    },
+    {
         "Description": "Innholdstype for Bemanningsrapport",
         "DisplayName": "Bemanningsrapport",
         "Fields": [],
@@ -112,7 +131,8 @@
         "Template": {
             "FileName": "BemanningsrapportMal.xltx"
         }
-    },{
+    },
+    {
         "Description": "Innholdstype for AOF Endring",
         "DisplayName": "AOF",
         "Fields": [],
@@ -127,7 +147,8 @@
         "Template": {
             "FileName": "AOF Endring.xltx"
         }
-    },{
+    },
+    {
         "Description": "Innholdstype for Leieliste",
         "DisplayName": "Leieliste",
         "Fields": [],
@@ -142,7 +163,8 @@
         "Template": {
             "FileName": "LeielisteMal.xltx"
         }
-    },{
+    },
+    {
         "Description": "Innholdstype for Oppstartsmøte",
         "DisplayName": "Oppstartsmøte",
         "Fields": [],
@@ -158,7 +180,7 @@
             "FileName": "OppstartMeet.dotx"
         }
     },
-{
+    {
         "Description": "Innholdstype for MoM med mal",
         "DisplayName": "Prosjektmøte (MoM)",
         "Fields": [],
@@ -193,6 +215,12 @@
             "GtProjectManager",
             "GtProjectOwner",
             "GtPlanner",
+            "GtFieldLeader",
+            "GtEngineeringResponsible",
+            "GtEconomyResponsible",
+            "GtRotationResonsible",
+            "GtHMSResponsible",
+            "GtQAResponsible",
             "GtStartDate",
             "GtEndDate",
             "BBRiskMatrix",
@@ -246,7 +274,6 @@
             "GtActionResponsible",
             "GtRiskProbability",
             "GtRiskConsequence",
-            "GtRiskProximity",
             "GtRiskFactor",
             "GtRiskAction",
             "GtActionDueDate",
@@ -265,7 +292,7 @@
     },
     {
         "Description": "",
-        "DisplayName": "Risiko",
+        "DisplayName": "Risk",
         "Fields": [],
         "Group": "Prosjektportal Innholdstyper",
         "ID": "0x010088578e7470cc4aa68d566346483107020101",

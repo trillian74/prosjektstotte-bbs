@@ -12,6 +12,14 @@
         "Title": "Bestilling forbruksmateriell"
     },
     {
+        "Url": "https://beerenberg.sharepoint.com/sites/Operations/support/rekv/_layouts/15/appredirect.aspx?instance_id={5B7035CA-2A67-49B7-91D8-55AEEA489FE7}&quick_launch=1",
+        "Title": "Bestilling av Utstyr"
+    },
+    {
+        "Url": "https://beerenberg-utstyr.azurewebsites.net/Utstyr/Index/?SPHostUrl=https%3A%2F%2Fbeerenberg%2Esharepoint%2Ecom%2Fteams%2Fopapps&SPLanguage=nb-NO&SPClientTag=0&SPProductNumber=16%2E0%2E5820%2E1207",
+        "Title": "Utstyrsvedlikehold"
+    },
+    {
         "Url": "Lists/Prosjektlogg",
         "Title": "Prosjektlogg"
     },

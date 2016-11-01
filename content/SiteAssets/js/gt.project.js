@@ -164,7 +164,7 @@ GT.Project.ChangeQueryOfListViewOnPage = function (phaseName, listName, pageRela
                 console.log("Modified list view(s) of " + listName);
             }, function (sender, args) {
                 deferred.reject();
-                console.error('Request failed. ' + args.get_message());
+                console.log('Request failed. ' + args.get_message());
             });
         } else {
             deferred.resolve();
@@ -172,7 +172,7 @@ GT.Project.ChangeQueryOfListViewOnPage = function (phaseName, listName, pageRela
         }
     }, function (sender, args) {
         deferred.reject();
-        console.error('Request failed. ' + args.get_message());
+        console.log('Request failed. ' + args.get_message());
     });
     return deferred.promise();
 };

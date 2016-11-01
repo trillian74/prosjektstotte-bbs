@@ -18,7 +18,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Utpeke prosjekteier og prosjektleder"
+                        "Value": "Utpeke prosjekteier og driftsleder"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -29,7 +29,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Etablere rollebeskrivelse for prosjekteier og prosjektleder"
+                        "Value": "Etablere rollebeskrivelse for prosjekteier og driftsleder"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -205,7 +205,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Overlevere prosjektet til prosjektleder/prosjektorganisasjon"
+                        "Value": "Overlevere prosjektet til driftsleder/prosjektorganisasjon"
                     },
                     {
                         "Name": "GtProjectPhase",

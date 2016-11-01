@@ -32,7 +32,7 @@ function DisplayTemplate_6f7b9c276cca4ec69280a4cd659e15c6(ctx) {
     , '             <div class="gt-projectItem">'
     , '                ', projectPhaseDisplayMarkup, ''
     , '                <h2><a href="', url, '">', title, '</a></h2>'
-    , '                <div>Prosjektleder: ', projectManager, '</div>'
+    , '                <div>Driftsleder: ', projectManager, '</div>'
     , '                <div>Prosjekteier: ', projectOwner, '</div>'
     , ''
     , '            </div>'

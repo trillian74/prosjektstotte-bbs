@@ -186,6 +186,7 @@
                 "RemoveExisitingContentTypes": "true",
                 "ContentTypes": [
                     "Prosjektdokument",
+                    
                     "Mappe"
                 ]
             }

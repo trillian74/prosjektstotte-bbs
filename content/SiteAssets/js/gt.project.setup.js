@@ -411,7 +411,7 @@ GT.Project.Setup.copyFile = function (file, srcWeb, srcLibUrl, dstWeb, dstLib) {
             executor2.executeAsync(info2)
         },
         error: function (err) {
-            console.error(JSON.stringify(err));
+            console.log(JSON.stringify(err));
             deferred.reject();
         }
     };
@@ -475,7 +475,7 @@ GT.Project.Setup.CopyFilesAndFolders = function (properties) {
             });
 
 	    }, function (sender, args) {
-	        console.error('Request failed. ' + args.get_message());
+	        console.log('Request failed. ' + args.get_message());
 	    });
 	})
 	.fail(function (jqXHR, textStatus, errorThrown) {
@@ -541,12 +541,12 @@ GT.Project.Setup.populateTaskList = function (listData) {
             console.log("Updated parent task info " + listData.Name);
             deferred.resolve();
         }, function (sender, args) {
-            console.error('Request failed. ' + args.get_message());
+            console.log('Request failed. ' + args.get_message());
             deferred.reject();
         });
 
     }, function (sender, args) {
-        console.error('Request failed. ' + args.get_message());
+        console.log('Request failed. ' + args.get_message());
         deferred.reject();
     });
     return deferred.promise();
@@ -577,7 +577,7 @@ GT.Project.Setup.populateGenericList = function (listData) {
         console.log("Copied default items to " + listData.Name);
         deferred.resolve();
     }, function (sender, args) {
-        console.error('Request failed. ' + args.get_message());
+        console.log('Request failed. ' + args.get_message());
         deferred.reject();
     });
 
@@ -702,14 +702,14 @@ GT.Project.Setup.CopyListItems = function (properties) {
 	                    deferred.resolve();
 	                }
 	            }, function (sender, args) {
-	                console.error('Request failed while copying list items. ' + args.get_message());
+	                console.log('Request failed while copying list items. ' + args.get_message());
 	                deferred.reject();
 	            });
 	        } else {
 	            deferred.resolve();
 	        }
 	    }, function (sender, args) {
-	        console.error('Request failed while retrieving list to synch. ' + args.get_message());
+	        console.log('Request failed while retrieving list to synch. ' + args.get_message());
 	        deferred.reject();
 	    });
 	});
@@ -740,7 +740,7 @@ GT.Project.Setup.UpdateParentReferences = function (clientContext, srcItems) {
         console.log("Updated parent references");
         deferred.resolve();
     }, function (sender, args) {
-        console.error('Request failed while copying list items. ' + args.get_message());
+        console.log('Request failed while copying list items. ' + args.get_message());
         deferred.reject();
     });
 
@@ -780,11 +780,11 @@ GT.Project.Setup.CreateWebContentTypes = function () {
             GT.Project.Setup.ContentTypes.UpdateListContentTypes("Prosjektlogg", ["Prosjektloggelement"]),
             GT.Project.Setup.ContentTypes.UpdateListContentTypes("Interessentregister", ["Interessent"]),
             GT.Project.Setup.ContentTypes.UpdateListContentTypes("Informasjon", ["Infoelement"]),
-            GT.Project.Setup.ContentTypes.UpdateListContentTypes("Risiko", ["Risiko", "Mulighet"]),
+            GT.Project.Setup.ContentTypes.UpdateListContentTypes("Risiko", ["Risk", "Mulighet"]),
             GT.Project.Setup.ContentTypes.UpdateListContentTypes("Oppgaver", ["Prosjektoppgave"]),
             GT.Project.Setup.ContentTypes.UpdateListContentTypes("Møtekalender", ["Prosjekthendelse"]),
             GT.Project.Setup.ContentTypes.UpdateListContentTypes("Fasesjekkliste", ["Sjekkpunkt"]),
-            GT.Project.Setup.ContentTypes.UpdateListContentTypes("Dokumenter", ["Prosjektdokument"])
+            GT.Project.Setup.ContentTypes.UpdateListContentTypes("Dokumenter", ["Prosjektdokument","AOF","Bemanningsrapport","Leieliste","Oppstartsmøte","Problemløsning A3","Problemløsning A3 med stikkord","Prosjektmøte (MoM)","TI MAL","Presentasjon"])
         ).then(function () {
             GT.jQuery.when(
                 GT.Project.Setup.ContentTypes.AddFieldToListFromXml('Møtekalender', 'GtProjectEventDateAndTitle', '<Field ID="{7604dadc-d8e3-4f35-bc58-890d33d908b9}" Name="GtProjectEventDateAndTitle" DisplayName="Dato og tittel" Type="Calculated" Hidden="False" Group="Glittertind Områdekolonner" Description="" Required="FALSE" ResultType="Text" ReadOnly="TRUE" EnforceUniqueValues="FALSE" Indexed="FALSE" Percentage="FALSE"><Formula>=TEXT(Starttidspunkt,"yyyy-mm-dd")&amp;" "&amp;Tittel</Formula><FieldRefs><FieldRef Name="Tittel" /><FieldRef Name="Starttidspunkt" /></FieldRefs></Field>')
@@ -891,7 +891,7 @@ GT.Project.Setup.UpdateListProperties = function (configData) {
         console.log("Modified list properties of " + configData.Name);
     }, function (sender, args) {
         deferred.reject();
-        console.error('Request failed. ' + args.get_message());
+        console.log('Request failed. ' + args.get_message());
     });
     return deferred.promise();
 };
@@ -968,11 +968,11 @@ GT.Project.Setup.UpdateListViews = function (data) {
             console.log("Modified list view(s) of " + listName);
         }, function (sender, args) {
             deferred.reject();
-            console.error('Request failed. ' + args.get_message());
+            console.log('Request failed. ' + args.get_message());
         });
     }, function (sender, args) {
         deferred.reject();
-        console.error('Request failed. ' + args.get_message());
+        console.log('Request failed. ' + args.get_message());
     });
     return deferred.promise();
 };

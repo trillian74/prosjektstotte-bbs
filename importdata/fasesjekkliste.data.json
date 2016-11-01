@@ -24,7 +24,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er prosjekteier og prosjektleder utpekt?"
+                        "Value": "Er prosjekteier og driftsleder utpekt?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -40,7 +40,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er rollebeskrivelse for prosjekteier og prosjektleder etablert?"
+                        "Value": "Er rollebeskrivelse for prosjekteier og driftsleder etablert?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -312,7 +312,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Kan prosjektet overleves til prosjektleder / prosjektorganisasjon?"
+                        "Value": "Kan prosjektet overleves til driftsleder / prosjektorganisasjon?"
                     },
                     {
                         "Name": "GtProjectPhase",

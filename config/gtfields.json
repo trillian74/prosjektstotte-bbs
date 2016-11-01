@@ -260,7 +260,7 @@
     },
     {
         "Description": "",
-        "DisplayName": "Prosjektleder",
+        "DisplayName": "Driftsleder",
         "Group": "Prosjektportal Områdekolonner",
         "ID": "d46bed8f-0fb6-4684-8221-632fdb12598f",
         "InternalName": "GtProjectManager",
@@ -272,6 +272,51 @@
         "Group": "Prosjektportal Områdekolonner",
         "ID": "ecaca156-7e1c-454d-9d8e-eacd1bd8b5b2",
         "InternalName": "GtPlanner",
+        "Type": "User"
+    },
+     {
+        "Description": "",
+        "DisplayName": "Feltleder",
+        "Group": "Prosjektportal Områdekolonner",
+        "ID": "db8c5338-5c54-4f3e-ba5d-524f47d42baf",
+        "InternalName": "GtFieldLeader",
+        "Type": "User"
+    },
+    {
+        "Description": "",
+        "DisplayName": "Engineeringsansvarlig",
+        "Group": "Prosjektportal Områdekolonner",
+        "ID": "577a75f5-5112-4ae3-8562-bb5db533dca7",
+        "InternalName": "GtEngineeringResponsible",
+        "Type": "User"
+    },{
+        "Description": "",
+        "DisplayName": "Økonomiansvarlig",
+        "Group": "Prosjektportal Områdekolonner",
+        "ID": "c01b880b-f919-43c4-8931-a518425b5f70",
+        "InternalName": "GtEconomyResponsible",
+        "Type": "User"
+    },{
+        "Description": "",
+        "DisplayName": "Rotasjonsansvarlig",
+        "Group": "Prosjektportal Områdekolonner",
+        "ID": "49e89a03-0a2b-4680-9e60-acc2c9d9cb72",
+        "InternalName": "GtRotationResonsible",
+        "Type": "User"
+    },{
+        "Description": "",
+        "DisplayName": "HMS-ansvarlig",
+        "Group": "Prosjektportal Områdekolonner",
+        "ID": "a0ba875b-f793-4a4d-a40d-30f0a173fa9f",
+        "InternalName": "GtHMSResponsible",
+        "Type": "User"
+    },
+    {
+        "Description": "",
+        "DisplayName": "Kvalitetsansvarlig",
+        "Group": "Prosjektportal Områdekolonner",
+        "ID": "afebfdaf-e466-4cf3-887a-3451f7e4ada0",
+        "InternalName": "GtQAResponsible",
         "Type": "User"
     },
     {
@@ -691,7 +736,7 @@
         "Type": "Choice"
     },
     {
-        "Description": "Oppgi den personen som meldte saken. Det er prosjektleders ansvar å opprette en Emnerapport på basis av emnet som er valgt etter prosedyrene valgt for dette prosjektet.",
+        "Description": "Oppgi den personen som meldte saken. Det er driftsleder ansvar å opprette en Emnerapport på basis av emnet som er valgt etter prosedyrene valgt for dette prosjektet.",
         "DisplayName": "Meldt av",
         "Group": "Prosjektportal Områdekolonner",
         "ID": "49b0ba6b-d1ec-4644-91b7-691a33524c90",
@@ -710,7 +755,7 @@
         "Choices": [
             "Prosjekteier",
             "Linjeorganisasjon",
-            "Prosjektleder",
+            "Driftsleder",
             "Prosjektgruppe",
             "Leverandør",
             "Referansegrupper",

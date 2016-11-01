@@ -11,7 +11,7 @@
   }
 
   var onError = function (response) {
-    console.error('failed :', response)
+    console.log('failed :', response)
   }
   var initiateAjaxCall = function (ctx) {
     var restUrl = _spPageContextInfo.webAbsoluteUrl
