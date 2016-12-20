@@ -174,9 +174,9 @@
         "Group": "BBC Prosjektportal Områdekolonner",
         "ID": "30309029-14c0-4913-ac1b-005b55e1545d",
         "InternalName": "BBRegardingYear",
-        "Max": 2999,
-        "Min": 2014,
-        "Type": "Number"
+        // "Max": 2999,
+        // "Min": 2014,
+        "Type": "Text"
     },
     {
         // "CalculatedProps": {
