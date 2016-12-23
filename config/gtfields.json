@@ -376,6 +376,20 @@
         "Type": "Choice"
     },
     {
+        "Choices": [
+            ""
+        ],
+        "Default": "",
+        "Description": "Brukes til å gruppere dokumenter og sett",
+        "DisplayName": "Gruppe tag",
+        "Format": "RadioButtons",
+        "Group": "BBC Prosjektportal Områdekolonner",
+        "ID": "3284603c-3d9c-466a-a7dc-f2b457bbe9e4",
+        "FillInChoice": "true",
+        "InternalName": "BBDocumentGrouping",
+        "Type": "Choice"
+    },
+    {
         "Description": "Kommentar til status risiko angitt over",
         "DisplayName": "Kommentar, risiko",
         "Group": "Prosjektportal Områdekolonner",
