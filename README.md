@@ -1,2 +1,2 @@
 # prosjektstotte-bbs
-Dette er prosjekt
+Dette er prosjektet
